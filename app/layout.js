@@ -1,5 +1,6 @@
 import './globals.css'
 import { Noto_Sans_TC } from 'next/font/google'
+import Script from 'next/script'
 
 const notoSans = Noto_Sans_TC({ subsets: ['latin'] })
 
@@ -11,7 +12,19 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="zh-TW">
-      <body className={notoSans.className}>{children}</body>
+      <head>
+        {/* Google AdSense 代碼 */}
+        <Script
+          id="adsbygoogle-init"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8019615509879896"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
+      </head>
+      <body className={notoSans.className}>
+        {children}
+      </body>
     </html>
   )
 }
