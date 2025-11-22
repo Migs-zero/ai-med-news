@@ -1,6 +1,7 @@
 import './globals.css'
 import { Noto_Sans_TC } from 'next/font/google'
 import Script from 'next/script'
+import { SpeedInsights } from "@vercel/speed-insights/next" // 👈 新增這行
 
 const notoSans = Noto_Sans_TC({ subsets: ['latin'] })
 
@@ -24,6 +25,9 @@ export default function RootLayout({ children }) {
       </head>
       <body className={notoSans.className}>
         {children}
+        
+        {/* 👇 Vercel 效能監測儀表板 (看不見，但在後台會收集數據) */}
+        <SpeedInsights />
       </body>
     </html>
   )
