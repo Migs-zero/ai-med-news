@@ -1,5 +1,29 @@
 [
   {
+    "id": "1763785312346",
+    "pubmed_id": "41269807",
+    "title_zh": "失眠新解方？中藥複方激活神秘細胞，改善睡眠品質",
+    "title_en": "Insomnia Breakthrough? Herbal Compound Activates Key Cells for Better Sleep",
+    "summary": "研究顯示，結合 GABA 與中藥的複方可激活皮下筋膜中的 Telocytes 細胞，有效改善失眠症狀。",
+    "key_points": [
+      "GABA-中藥複方",
+      "Telocytes 細胞",
+      "失眠治療新方向"
+    ],
+    "content_zh": "現代人生活壓力大，失眠已成為普遍的亞健康問題，嚴重影響身心健康。最新研究發現，一種結合 γ-氨基丁酸 (GABA) 與多種中藥材的複方，可能透過激活皮下筋膜中的 Telocytes 細胞，有效改善失眠症狀，為失眠治療帶來新曙光。\n\n傳統中醫理論認為，位於背部正中的督脈與精神及神經系統疾病息息相關。近年來，科學研究也證實，督脈的關鍵細胞是 Telocytes (TCs) 細胞。我們可以將 TCs 細胞想像成筋膜組織中的「傳令兵」，負責傳遞和調節各種生理訊號，進而影響睡眠品質。\n\n這項研究開發了一種 GABA-中藥複方 (GABA-HMC)，成分包含 GABA、纈草油、聖約翰草萃取物和人蔘萃取物。研究人員將此複方應用於健康及失眠大鼠的督脈部位，並觀察 TCs 細胞的變化。實驗結果顯示，GABA-HMC 顯著提升了大鼠體內的血清素含量，有效緩解失眠並改善睡眠品質。\n\n進一步的免疫螢光染色和穿透式電子顯微鏡 (TEM) 觀察發現，使用 GABA-HMC 複方後，大鼠皮下筋膜中的 TCs 細胞數量明顯增加，細胞突觸（telopodes）也變得更長，細胞間的連接更加緊密。這些變化表明，GABA-HMC 可能透過激活和強化 TCs 細胞的功能，從而改善睡眠。\n\n研究結果暗示，TCs 細胞可能是 GABA-HMC 發揮改善睡眠作用的關鍵執行細胞。這項發現不僅為傳統中醫理論提供了現代科學的佐證，也為開發新型失眠治療方法提供了潛在的途徑。未來，研究人員將進一步探索 TCs 細胞在睡眠調節中的具體機制，並開發出更有效、更安全的 GABA-中藥複方，幫助更多人擺脫失眠困擾。然而，需要強調的是，此研究目前僅為動物實驗階段，相關結果仍需經過嚴謹的人體臨床試驗驗證，才能廣泛應用於臨床治療。",
+    "content_en": "In today's high-pressure world, insomnia has become a common subhealth issue, significantly affecting physical and mental well-being. Recent research has discovered that a compound combining γ-aminobutyric acid (GABA) with various herbal medicines may effectively improve insomnia symptoms by activating Telocytes cells in the subcutaneous fascia, offering a new dawn for insomnia treatment.\n\nTraditional Chinese medicine theory suggests that the Du Meridian, located along the dorsal midline, is closely related to neuropsychiatric disorders. Recent scientific studies have also confirmed that Telocytes (TCs) cells are key cells in the Du Meridian. We can imagine TCs cells as \"messengers\" in the fascia tissue, responsible for transmitting and regulating various physiological signals, thereby affecting sleep quality.\n\nThis study developed a GABA-herbal medicine composite (GABA-HMC) containing GABA, valerian oil, Hypericum perforatum extract, and ginseng extract. Researchers applied this compound to the Du Meridian of healthy and insomnia-plagued rats and observed the changes in TCs cells. The experimental results showed that GABA-HMC significantly increased serotonin levels in the rats, effectively alleviating insomnia and improving sleep quality.\n\nFurther immunofluorescence staining and transmission electron microscopy (TEM) observations revealed that after using the GABA-HMC compound, the number of TCs cells in the rat's subcutaneous fascia significantly increased, the cell processes (telopodes) also became longer, and the connections between cells became tighter. These changes indicate that GABA-HMC may improve sleep by activating and strengthening the function of TCs cells.\n\nThe research results suggest that TCs cells may be the key effector cells for GABA-HMC to improve sleep. This discovery not only provides modern scientific evidence for traditional Chinese medicine theory but also provides potential pathways for developing new insomnia treatments. In the future, researchers will further explore the specific mechanisms of TCs cells in sleep regulation and develop more effective and safer GABA-herbal compounds to help more people get rid of insomnia. However, it should be emphasized that this research is currently only in the animal experiment stage, and the relevant results still need to be verified by rigorous human clinical trials before they can be widely applied to clinical treatment.",
+    "disclaimer": "本報導僅供參考，非醫療建議。如有任何健康問題，請諮詢專業醫療人員。",
+    "image_prompt": "medical illustration style, minimalist, GABA-HMC, Telocytes, Du Meridian, sleep",
+    "category": "Sleep Science",
+    "category_zh": "睡眠科學",
+    "source": {
+      "journal": "Microscopy and microanalysis : the official journal of Microscopy Society of America, Microbeam Analysis Society, Microscopical Society of Canada",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41269807/"
+    },
+    "created_at": "2025-11-22T04:21:52.346Z"
+  },
+  {
     "id": "1763758069880",
     "pubmed_id": "41269179",
     "title_zh": "研究揭示：性傾向矯正治療對歐洲青少年造成嚴重心理健康風險",
