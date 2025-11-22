@@ -1,5 +1,151 @@
 [
   {
+    "id": "1763822610353",
+    "pubmed_id": "41272831",
+    "title_zh": "物聯網結合電磁場與運動療法：膝關節炎治療新選擇？",
+    "title_en": "IoT-Based Electromagnetic Field Therapy Shows Promise for Knee Osteoarthritis",
+    "summary": "研究顯示，物聯網結合脈衝電磁場與運動療法，在膝關節炎的居家治療上，可能與傳統門診治療效果相當，且更方便。",
+    "key_points": [
+      "膝關節炎居家治療新方法",
+      "物聯網結合電磁場與運動",
+      "非劣性試驗，效果不亞於傳統治療"
+    ],
+    "content_zh": "對許多膝關節炎患者來說，疼痛和功能受限嚴重影響生活品質。傳統治療如物理治療和藥物，雖然有效，但往往需要頻繁往返醫院，對行動不便的患者是一大挑戰。一項新的研究正在探索一種更便捷的治療方式：物聯網（IoT）結合脈衝電磁場（PEMF）與運動療法。\n\n脈衝電磁場療法就像是為關節細胞充電，透過特定頻率的電磁波刺激細胞活性，減輕炎症和疼痛。結合運動療法，則能強化關節周圍肌肉，改善關節穩定性。將這兩者整合到物聯網平台，患者可以在家中透過穿戴式設備接收電磁場治療，並在APP的指導下進行運動，大幅減少往返醫院的次數。\n\n這項隨機對照試驗招募了112名膝關節炎患者，隨機分為兩組，一組接受物聯網結合脈衝電磁場與運動療法（IOT-BPEMFE），另一組接受傳統門診治療（OT）。研究持續4週，並在治療前後以及治療後8週進行評估。主要評估指標是西方安大略和麥克馬斯特大學骨關節炎指數（WOMAC），用於評估疼痛、僵硬和功能受限程度。次要評估指標包括疼痛程度（NRS）、生活品質（SF-36）、日常生活能力（IADL）、焦慮和抑鬱程度（SAS/SDS）、行動能力（TUG）、肌肉力量（MMT）、關節活動度（ROM）、膝關節評分（KSS/KOOS）以及患者滿意度。\n\n初步結果顯示，IOT-BPEMFE組在疼痛減輕、功能恢復和生活品質改善方面，與OT組效果相當，甚至可能在某些方面更勝一籌。更重要的是，IOT-BPEMFE的居家治療模式，提高了患者的依從性。研究人員也坦承，由於採用自我報告量表，可能存在社會期望偏差，且追蹤時間僅有12週，後續效果仍需觀察。未來，研究團隊將進一步分析數據，評估IOT-BPEMFE在社區環境中治療膝關節炎的可行性和有效性。這項研究為膝關節炎患者提供了一種新的治療選擇，特別是對那些行動不便或居住偏遠地區的患者，居家治療模式可能更具優勢。",
+    "content_en": "For many knee osteoarthritis (KOA) patients, pain and limited function significantly impact their quality of life. Traditional treatments like physical therapy and medication are effective, but often require frequent hospital visits, posing a challenge for patients with mobility issues. A new study is exploring a more convenient treatment: the Internet of Things (IoT) combined with pulsed electromagnetic field (PEMF) and exercise therapy.\n\nPulsed electromagnetic field therapy is like recharging joint cells, stimulating cell activity with specific frequency electromagnetic waves to reduce inflammation and pain. Combined with exercise therapy, it strengthens the muscles around the joints and improves joint stability. Integrating these two into an IoT platform allows patients to receive electromagnetic field therapy at home through wearable devices and perform exercises guided by an app, significantly reducing the number of hospital visits.\n\nThis randomized controlled trial recruited 112 KOA patients, randomly assigned to either the IoT-based pulsed electromagnetic field combined with exercise (IOT-BPEMFE) group or the traditional outpatient therapy (OT) group. The study lasted for 4 weeks, with assessments before and after treatment, as well as 8 weeks post-treatment. The primary outcome measure was the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), used to assess pain, stiffness, and functional limitations. Secondary outcome measures included pain intensity (NRS), quality of life (SF-36), instrumental activity of daily living (IADL), anxiety and depression levels (SAS/SDS), mobility (TUG), muscle strength (MMT), range of motion (ROM), Knee Society Score (KSS/KOOS), and patient satisfaction.\n\nPreliminary results suggest that the IOT-BPEMFE group achieved similar pain reduction, functional recovery, and quality of life improvements compared to the OT group, potentially even outperforming it in some aspects. More importantly, the home-based treatment model of IOT-BPEMFE increased patient adherence. The researchers acknowledge the potential for social desirability bias due to the use of self-report scales and the limited follow-up period of 12 weeks, requiring further observation of long-term effects. Future research will further analyze the data to assess the feasibility and effectiveness of IOT-BPEMFE in treating KOA in community settings. This study offers a new treatment option for KOA patients, especially those with mobility issues or residing in remote areas, where a home-based treatment model may be more advantageous.",
+    "disclaimer": "本報導僅供參考，非醫療建議。",
+    "image_prompt": "medical illustration style, minimalist, knee joint, IoT device, electromagnetic field, exercise",
+    "category": "Mental Health",
+    "category_zh": "心理健康",
+    "source": {
+      "journal": "Trials",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41272831/"
+    },
+    "created_at": "2025-11-22T14:43:30.353Z"
+  },
+  {
+    "id": "1763822597186",
+    "pubmed_id": "41272951",
+    "title_zh": "乳癌婦女福音：線上冥想課程有效緩解憂鬱、提升心靈健康",
+    "title_en": "Online Mindfulness Program Shows Promise in Reducing Depression for Breast Cancer Patients",
+    "summary": "一項研究顯示，針對乳癌或婦科癌症婦女的線上冥想課程（e-MBCR）能有效減輕憂鬱症狀，並提升整體心靈健康。",
+    "key_points": [
+      "線上冥想課程可減輕癌症患者憂鬱",
+      "課程有助於自我探索與提升自我效能",
+      "需注意冥想可能引發挑戰性情緒"
+    ],
+    "content_zh": "乳癌或婦科癌症的治療過程漫長且艱辛，許多患者除了身體上的不適，更面臨巨大的心理壓力，如憂鬱、焦慮等。一項最新研究表明，參與線上冥想課程（e-MBCR）或能成為她們的希望之光。\n\n冥想減壓並非玄學，而是透過專注當下，如同將思緒的洪流導入一個穩定的水庫，減少胡思亂想，進而調節自律神經，降低壓力荷爾蒙的分泌。這項名為SERENITY的研究，便是針對線上冥想課程對乳癌或婦科癌症婦女的影響進行評估。\n\n研究團隊進行了一項隨機對照試驗，招募了62名法語區的乳癌或婦科癌症婦女，隨機分為兩組，一組參與為期八週的線上冥想課程，另一組則作為對照組。研究人員在課程前後，以及三個月後，對參與者進行心理評估，並在課程結束後進行訪談。結果顯示，參與線上冥想課程的婦女在課程結束後，憂鬱程度明顯降低，且具有中等程度的效果。雖然其他心理指標的差異不明顯，但在焦慮、心靈健康和創傷後成長方面，也呈現出積極的趨勢。然而，在三個月的追蹤期後，這些效果有所減弱。訪談結果顯示，課程提供了一個安全且被認可的環境，幫助參與者學習應對技巧，提升幸福感，並進行自我探索。值得注意的是，冥想過程也可能觸發參與者對於癌症的痛苦回憶，雖然對大多數人來說，這是個有益的內在探索過程，但對少數人而言，卻是相當大的挑戰。\n\n研究結果顯示，線上冥想課程能有效幫助乳癌或婦科癌症婦女減輕憂鬱，提升心靈健康。然而，在推廣此類課程時，也應注意冥想可能帶來的挑戰性情緒，並提供適當的支持與輔導。對於癌症患者來說，身心靈的全面關懷至關重要，而線上冥想課程或許能成為她們康復之路上的助力。",
+    "content_en": "The treatment process for breast or gynecological cancer is lengthy and challenging, with many patients facing immense psychological stress, such as depression and anxiety, in addition to physical discomfort. A recent study suggests that participating in an online Mindfulness-Based Cancer Recovery (e-MBCR) program may offer a beacon of hope for these women.\n\nMindfulness-based stress reduction isn't mystical; it involves focusing on the present moment, akin to channeling a flood of thoughts into a stable reservoir, reducing excessive worrying, and consequently regulating the autonomic nervous system and decreasing the secretion of stress hormones. The SERENITY study specifically evaluated the impact of an online mindfulness program on women with breast or gynecological cancer.\n\nThe research team conducted a randomized controlled trial, recruiting 62 French-speaking women with breast or gynecological cancer and randomly assigning them to two groups. One group participated in an eight-week online mindfulness program, while the other served as a control group. Researchers conducted psychological assessments on participants before and after the program, as well as three months later, and conducted interviews after the program's completion. The results showed that women who participated in the online mindfulness program experienced a significant reduction in depression symptoms after the program, with a medium effect size. Although differences in other psychological indicators were not significant, positive trends were observed in anxiety, spiritual well-being, and post-traumatic growth. However, these effects diminished after a three-month follow-up period. Interview results revealed that the program provided a safe and validating environment, helping participants learn coping skills, enhance their well-being, and engage in self-exploration. It is important to note that the mindfulness process may also trigger painful memories of cancer for participants. While this was a beneficial inner exploration process for most, it posed a significant challenge for a few.\n\nThe study results indicate that online mindfulness programs can effectively help women with breast or gynecological cancer reduce depression and improve spiritual well-being. However, when promoting such programs, attention should be paid to the challenging emotions that mindfulness may bring, and appropriate support and guidance should be provided. Comprehensive care for the mind, body, and spirit is crucial for cancer patients, and online mindfulness programs may serve as an aid on their path to recovery.",
+    "disclaimer": "本報導僅供參考，非醫療建議。如有健康疑慮，請諮詢專業醫師。",
+    "image_prompt": "medical illustration style, minimalist, woman meditating online, cancer awareness, calming colors",
+    "category": "Mental Health",
+    "category_zh": "心理健康",
+    "source": {
+      "journal": "Psycho-oncology",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41272951/"
+    },
+    "created_at": "2025-11-22T14:43:17.186Z"
+  },
+  {
+    "id": "1763822585726",
+    "pubmed_id": "41270692",
+    "title_zh": "老年人自殺風險大增！研究揭示共病是元兇，憂鬱症首當其衝",
+    "title_en": "Suicide Risk Soars in Elderly! Comorbidities, Especially Depression, Are Key Culprits, Study Finds",
+    "summary": "最新研究顯示，老年人若患有其他疾病，自殺風險顯著增加，其中憂鬱症是最大風險因子。及早診斷並治療共病，對於預防老年自殺至關重要。",
+    "key_points": [
+      "老年人自殺風險與共病高度相關",
+      "憂鬱症是老年自殺最重要的共病",
+      "癌症與自殺風險無顯著關聯",
+      "及早診斷與治療共病能有效降低自殺風險"
+    ],
+    "content_zh": "年長者的自殺問題不容忽視。隨著全球人口老化，老年人的身心健康日益受到重視。最新研究指出，老年人若同時患有其他疾病（共病），自殺風險將大幅提升，其中又以憂鬱症的影響最為顯著。這項發現提醒我們，應更加關注老年人的整體健康狀況，及早發現並介入治療潛在的風險因子。\n\n共病就像是壓垮駱駝的最後一根稻草。當老年人面臨生理機能衰退的同時，若又遭受慢性疾病、失能甚至社會孤立等問題，心理壓力往往難以承受。憂鬱症會進一步扭曲他們對現實的認知，使其對未來感到絕望，最終走上絕路。簡而言之，共病加劇了老年人原本就脆弱的心理防線。\n\n這篇發表於近期的系統性回顧與統合分析，檢視了自研究開始至2024年10月期間，共41項相關研究，涵蓋超過3500萬人口的數據。結果顯示，老年人若患有任何共病，自殺意念或行為的風險將增加2.23倍；而罹患憂鬱症的老年人，自殺風險更高達3.19倍。值得注意的是，癌症與自殺風險並未呈現顯著關聯性。\n\n這項研究清楚表明，憂鬱症是老年自殺防治的重點。及早診斷並積極治療老年人的憂鬱症狀，不僅能改善其生活品質，更能有效降低自殺風險。此外，針對患有其他共病的老年人，也應提供全面的身心照護，包括心理諮商、社會支持等，幫助他們積極面對生活中的挑戰。關懷長者，從了解他們的健康狀況開始，讓我們共同努力，為他們營造一個更安全、更健康的生活環境。",
+    "content_en": "Suicide among the elderly is a serious concern. As the global population ages, the physical and mental health of older adults is receiving increasing attention. A new study indicates that older adults with comorbidities have a significantly increased risk of suicide, with depression being the most prominent factor. This finding highlights the need to pay closer attention to the overall health of older adults and to identify and treat potential risk factors early.\n\nComorbidities are like the straw that broke the camel's back. When older adults face declining physical function, combined with chronic diseases, disability, or even social isolation, the psychological pressure can be overwhelming. Depression further distorts their perception of reality, leading them to feel hopeless about the future and ultimately take their own lives. In short, comorbidities exacerbate the already fragile psychological defenses of older adults.\n\nThis recently published systematic review and meta-analysis examined data from 41 relevant studies, covering over 35 million people, from inception to October 2024. The results showed that older adults with any comorbidity had a 2.23-fold increased risk of suicidal ideation or behavior; the risk was even higher, at 3.19-fold, for older adults with depression. Notably, cancer was not significantly associated with suicide risk.\n\nThis study clearly shows that depression is a key focus for suicide prevention in older adults. Early diagnosis and active treatment of depression symptoms in older adults can not only improve their quality of life but also effectively reduce the risk of suicide. In addition, comprehensive physical and mental health care, including psychological counseling and social support, should be provided to older adults with other comorbidities to help them actively face the challenges in their lives. Caring for the elderly starts with understanding their health status. Let us work together to create a safer and healthier living environment for them.",
+    "disclaimer": "本報導僅供參考，非醫療建議。",
+    "image_prompt": "medical illustration style, minimalist, elderly person silhouette, depression cloud, support hands",
+    "category": "Longevity",
+    "category_zh": "抗衰老",
+    "source": {
+      "journal": "Psychiatry research",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41270692/"
+    },
+    "created_at": "2025-11-22T14:43:05.726Z"
+  },
+  {
+    "id": "1763822574603",
+    "pubmed_id": "41270738",
+    "title_zh": "血管老化是肥胖元兇？研究發現清除老化血管細胞可改善代謝功能",
+    "title_en": "Vascular Aging: Clearing Senescent Endothelial Cells Improves Metabolic Function in Obese Mice",
+    "summary": "研究發現，清除肥胖小鼠體內老化的血管內皮細胞，能有效改善其代謝功能，為治療代謝疾病提供新策略。",
+    "key_points": [
+      "老化細胞是代謝疾病的關鍵因素",
+      "清除老化血管細胞能改善肥胖小鼠的代謝功能",
+      "Fisetin (非瑟酮) 也能減少老化血管細胞",
+      "靶向清除老化血管細胞是潛在的治療策略"
+    ],
+    "content_zh": "肥胖不再只是身材走樣的問題，更可能引發嚴重的代謝疾病，如糖尿病、心血管疾病等。科學界近年發現，體內「老化細胞」的堆積是導致這些疾病的重要原因之一。最新研究更指出，血管內的老化細胞，在代謝功能紊亂中扮演著關鍵角色。\n\n想像一下，血管就像身體裡的高速公路，負責運送養分和氧氣。血管內皮細胞就像高速公路的路面，如果這些路面老化、坑坑疤疤，運輸效率就會大打折扣。這些老化的血管內皮細胞會釋放有害物質，引發慢性發炎，進而干擾身體的代謝功能，導致血糖升高、脂肪堆積等問題。\n\n這項發表在知名期刊上的研究，利用基因改造小鼠進行實驗。研究人員創造出一種特殊的小鼠，可以選擇性地清除血管內的老化細胞。實驗結果顯示，清除肥胖小鼠體內老化的血管內皮細胞後，這些小鼠的代謝功能顯著改善，炎症反應也明顯減輕。更令人驚訝的是，研究人員將老化的血管內皮細胞移植到健康的瘦小鼠體內，竟然導致這些瘦小鼠也出現了脂肪組織發炎和代謝功能障礙。\n\n此外，研究團隊還發現，一種名為Fisetin（非瑟酮）的天然化合物，具有清除老化細胞的作用，並且能有效減少肥胖小鼠體內血管內的老化細胞數量，進而改善牠們的血糖代謝。這些研究結果強烈暗示，靶向清除老化的血管內皮細胞，可能是一種治療代謝疾病的有效策略。未來，科學家或許能開發出專門針對老化血管細胞的藥物，幫助肥胖患者擺脫代謝疾病的困擾。然而，這些研究目前僅在動物模型上進行，是否能在人體上獲得同樣的效果，仍需進一步的臨床試驗驗證。",
+    "content_en": "Obesity is no longer just a matter of appearance; it can also lead to serious metabolic diseases like diabetes and cardiovascular disease. Scientists have recently discovered that the accumulation of \"senescent cells\" in the body is a major contributor to these diseases. New research indicates that senescent endothelial cells in blood vessels play a crucial role in metabolic dysfunction.\n\nImagine blood vessels as highways in the body, responsible for transporting nutrients and oxygen. Endothelial cells lining the blood vessels are like the road surface. If these surfaces age, becoming potholed and uneven, transport efficiency suffers. These senescent endothelial cells release harmful substances, triggering chronic inflammation, which in turn disrupts the body's metabolism, leading to elevated blood sugar and fat accumulation.\n\nThis study, published in a leading journal, used genetically modified mice. Researchers created a special mouse that could selectively eliminate senescent cells in blood vessels. The results showed that clearing senescent endothelial cells in obese mice significantly improved their metabolic function and reduced inflammation. Surprisingly, transplanting senescent endothelial cells into healthy, lean mice caused adipose tissue inflammation and metabolic dysfunction in the lean mice.\n\nFurthermore, the research team discovered that a natural compound called Fisetin can clear senescent cells and effectively reduce the number of senescent cells in the blood vessels of obese mice, thereby improving their glucose metabolism. These findings strongly suggest that targeting and eliminating senescent endothelial cells may be an effective strategy for treating metabolic diseases. In the future, scientists may be able to develop drugs specifically targeting senescent vascular cells, helping obese patients overcome metabolic problems. However, these studies have only been conducted on animal models, and whether the same effects can be achieved in humans requires further clinical trials.",
+    "disclaimer": "本報導僅供參考，非醫療建議。",
+    "image_prompt": "medical illustration style, minimalist, senescent endothelial cells, metabolic dysfunction, vascular aging",
+    "category": "Longevity",
+    "category_zh": "抗衰老",
+    "source": {
+      "journal": "Cell metabolism",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41270738/"
+    },
+    "created_at": "2025-11-22T14:42:54.603Z"
+  },
+  {
+    "id": "1763822562004",
+    "pubmed_id": "41271421",
+    "title_zh": "揮別頸部創傷後長期疼痛？研究探尋早期預測與治療新方向",
+    "title_en": "Breaking Free from Chronic Neck Pain After Trauma: Study Seeks Early Prediction and Treatment",
+    "summary": "一項前瞻性研究旨在識別頸部創傷後長期疼痛的預測因子，並評估早期介入的潛在價值，以減輕患者的痛苦和社會負擔。",
+    "key_points": [
+      "頸部創傷後疼痛常見且影響深遠",
+      "早期預測工具可能改善治療效果",
+      "生物標記物與心理因素是關鍵預測因子"
+    ],
+    "content_zh": "創傷後的頸部疼痛，例如俗稱的「揮鞭效應」，不僅影響個人生活品質，也造成龐大的社會經濟負擔。研究顯示，約有15%-25%的事故傷者在一年後仍受中度至重度頸部疼痛困擾。\n\n這種長期疼痛就像身體警報系統持續誤鳴。原本應該在傷癒後平息的疼痛信號，卻持續不斷地傳遞，導致患者身心俱疲。過去的研究發現，年齡、初期疼痛強度、對疼痛的敏感度以及創傷後的過度警覺都與慢性頸部疼痛有關。但目前對於如何有效改善早期護理，仍存在許多疑問。\n\n為了尋找更佳的解決方案，一項前瞻性世代研究正在進行中。研究將追蹤100名在事故發生72小時內出現頸部創傷後疼痛的成年人。研究人員將在受試者加入研究時進行全面評估，包括疼痛程度、活動能力、睡眠品質、創傷後壓力等自我報告變數，以及心率變異性（HRV）和頭髮皮質醇等生物標記物，並進行頸椎活動範圍等臨床測試。後續將在3、6和12個月後進行追蹤。\n\n研究的核心目標是開發早期預測工具，協助醫生識別哪些患者有發展成慢性疼痛的高風險。研究人員將使用ROC曲線和多變量回歸分析，評估預測工具的效能，並探討生物標記物與預測結果之間的關聯性。此外，研究還將分析健康經濟成本，比較不同群體的醫療支出。更重要的是，研究將深入探討HRV與創傷後壓力症候群之間的關聯，並評估頭髮皮質醇是否在其中扮演調節作用。\n\n這項研究的結果有望為頸部創傷後的早期護理帶來革命性的改變。若能及早識別高風險患者，並針對其個別情況提供適當的治療，不僅可以減輕患者的痛苦，也能有效降低社會經濟負擔。未來，研究團隊將透過學術期刊、大眾媒體以及專業工作坊等管道，廣泛分享研究成果，將研究發現轉化為實際的臨床應用。",
+    "content_en": "Post-traumatic neck pain, such as whiplash, significantly impacts individual quality of life and imposes a substantial socioeconomic burden. Studies indicate that approximately 15%-25% of accident victims continue to experience moderate to severe neck pain one year after the incident.\n\nThis chronic pain is akin to a continuously malfunctioning alarm system in the body. Pain signals that should subside after healing persist, causing physical and mental exhaustion. Past research has linked factors such as age, initial pain intensity, pain sensitivity, and post-traumatic hyperarousal to chronic neck pain. However, many questions remain about effectively improving early care.\n\nTo find better solutions, a prospective cohort study is underway. The study will follow 100 adults who developed neck pain within 72 hours of an accident. Researchers will conduct a comprehensive assessment upon enrollment, including self-reported variables such as pain levels, mobility, sleep quality, and post-traumatic stress, as well as biomarkers like heart rate variability (HRV) and hair cortisol, along with clinical tests such as cervical range of motion. Follow-up assessments will occur at 3, 6, and 12 months.\n\nThe core objective is to develop early prediction tools to help doctors identify patients at high risk of developing chronic pain. Researchers will use ROC curves and multivariable regression analyses to evaluate the effectiveness of prediction tools and explore the correlation between biomarkers and prediction outcomes. Additionally, the study will analyze health economic costs, comparing medical expenses across different groups. More importantly, the study will delve into the connection between HRV and post-traumatic stress disorder, assessing whether hair cortisol plays a regulatory role.\n\nThe results of this study are expected to revolutionize early care for post-traumatic neck pain. Early identification of high-risk patients and tailored treatment can alleviate suffering and reduce socioeconomic burden. The research team will widely share their findings through academic journals, mass media, and professional workshops, translating research findings into practical clinical applications.",
+    "disclaimer": "本報導僅供參考，非醫療建議。",
+    "image_prompt": "medical illustration style, minimalist, neck pain, whiplash, recovery, prediction",
+    "category": "Sleep Science",
+    "category_zh": "睡眠科學",
+    "source": {
+      "journal": "BMJ open",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41271421/"
+    },
+    "created_at": "2025-11-22T14:42:42.004Z"
+  },
+  {
+    "id": "1763822550845",
+    "pubmed_id": "41271639",
+    "title_zh": "擺脫鎮靜劑成癮？新藥TPA023B展現曙光",
+    "title_en": "New Drug TPA023B Shows Promise in Treating Benzodiazepine Addiction",
+    "summary": "研究顯示，新藥TPA023B能有效抑制鎮靜劑成癮，並緩解戒斷症狀，有望成為首個用於治療鎮靜劑依賴的藥物。",
+    "key_points": [
+      "TPA023B可阻斷鎮靜劑的自我給藥行為",
+      "TPA023B具有抗焦慮效果",
+      "TPA023B能減輕鎮靜劑戒斷症狀"
+    ],
+    "content_zh": "鎮靜劑，如苯二氮䓬類藥物，雖然廣泛用於治療焦慮和睡眠障礙，但其成癮性和依賴性限制了臨床應用。對於深受鎮靜劑成癮困擾的患者來說，一個潛在的解決方案正在浮現。\n\n藥物成癮就像是身體裡的開關被錯誤地鎖定在了「渴望」模式。苯二氮䓬類藥物通過影響大腦中的GABA受體來發揮作用，GABA受體就像是神經信號的調節器。傳統的鎮靜劑會全面激活這些調節器，帶來鎮靜效果，但也容易導致依賴。新藥TPA023B的不同之處在於，它只選擇性地調節部分GABA受體亞型（α2、α3、α5），而對主要的α1受體沒有顯著影響，降低了成癮風險，就像只調整音響的部分頻段，避免失真。\n\n研究人員在猴子身上進行的實驗發現，TPA023B能夠以劑量依賴的方式阻斷猴子對咪達唑侖（一種常見的苯二氮䓬類藥物）的自我給藥行為。更重要的是，在阻止成癮行為的同時，TPA023B還展現出抗焦慮的效果，這意味著它可能同時解決成癮和焦慮問題。研究人員估計，達到這些效果所需的劑量能夠在人體內實現，並達到70-80%的受體佔據率。此外，在依賴模型中，TPA023B沒有引發戒斷反應，甚至能夠逆轉由氟馬西尼（一種苯二氮䓬類受體拮抗劑）引起的戒斷症狀。\n\nTPA023B作為一種新型的GABA受體調節劑，在臨床前研究中顯示出治療苯二氮䓬類藥物成癮的潛力。由於TPA023B已在人類臨床試驗中成功應用，這些臨床前數據支持將TPA023B開發為首個針對濫用苯二氮䓬類藥物、患有相關使用障礙和/或存在身體依賴的患者的維持療法。這項研究為開發更安全、有效的鎮靜劑成癮治療方法開闢了新的途徑。然而，需要強調的是，這項研究目前僅為臨床前研究，其結果需要在更大規模的人體試驗中驗證，才能最終確定其在臨床上的有效性和安全性。患者不應自行使用，務必諮詢專業醫師的建議。",
+    "content_en": "Benzodiazepines, widely prescribed for anxiety and sleep disorders, are limited by their addictive potential. A potential solution emerges for those struggling with benzodiazepine addiction.\n\nDrug addiction can be likened to a switch stuck in the 'craving' position. Benzodiazepines work by affecting GABA receptors in the brain, which regulate nerve signals. Traditional benzodiazepines fully activate these receptors, causing sedation but also dependence. TPA023B selectively modulates certain GABA receptor subtypes (α2, α3, α5) without significantly impacting the primary α1 receptor, reducing addiction risk—like adjusting specific frequencies on a sound system to avoid distortion.\n\nExperiments on monkeys showed that TPA023B dose-dependently blocked self-administration of midazolam, a common benzodiazepine. Importantly, TPA023B exhibited anti-anxiety effects at the same doses that blocked addictive behavior, potentially addressing both addiction and anxiety. Researchers estimate that the required dosage can be achieved in humans, occupying 70-80% of receptors. Furthermore, TPA023B didn't induce withdrawal symptoms in dependence models and even reversed withdrawal symptoms caused by flumazenil, a benzodiazepine receptor antagonist.\n\nTPA023B, a novel GABA receptor modulator, shows promise in preclinical studies for treating benzodiazepine addiction. Having been successfully administered to humans in clinical trials, preclinical data support its development as the first maintenance pharmacotherapy for patients misusing benzodiazepines or with a use disorder and/or physical dependence. This study opens avenues for safer, more effective addiction treatments. However, this research is preclinical, and results require validation in larger human trials to determine clinical efficacy and safety. Patients should consult a physician before use.",
+    "disclaimer": "本報導僅供參考，非醫療建議。",
+    "image_prompt": "medical illustration style, minimalist, brain, GABA receptor, TPA023B",
+    "category": "Sleep Science",
+    "category_zh": "睡眠科學",
+    "source": {
+      "journal": "Translational psychiatry",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41271639/"
+    },
+    "created_at": "2025-11-22T14:42:30.845Z"
+  },
+  {
     "id": "1763820754033",
     "pubmed_id": "25913182",
     "title_zh": "長期居住綠藍空間對心理健康益處的證據有限，研究呼籲更多高質量研究",
