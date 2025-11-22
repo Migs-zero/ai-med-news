@@ -1,12 +1,18 @@
 const fs = require('fs');
 const path = require('path');
+require('dotenv').config({ path: path.join(__dirname, '..', '.env') });
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 const https = require('https');
 const xml2js = require('xml2js');
 
 // --- 設定 ---
 // ⚠️⚠️⚠️ 請再次填入你的 API Key ⚠️⚠️⚠️
-const API_KEY = process.env.GEMINI_API_KEY || "AIzaSyDxvAiAEHr-fV3JJxuLPEhfxpkY_UsO1-A"; 
+const API_KEY = process.env.GEMINI_API_KEY;
+
+if (!API_KEY) {
+    console.error("❌ 錯誤: 找不到 API Key。請確認 .env 檔案已建立並填入 GEMINI_API_KEY");
+    process.exit(1);
+}
 const PROJECT_ROOT = path.join(__dirname, '..'); 
 const DATA_DIR = path.join(PROJECT_ROOT, 'public', 'data');
 const NEWS_FILE = path.join(DATA_DIR, 'news.json');
