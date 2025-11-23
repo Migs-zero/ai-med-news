@@ -1,6 +1,6 @@
 'use client';
 import { useState, useEffect } from 'react';
-import { BookOpen, Activity, Moon, Brain, ArrowRight, ExternalLink, Search, X } from 'lucide-react';
+import { BookOpen, Activity, Moon, Brain, ArrowRight, ExternalLink, Search, X, Stethoscope } from 'lucide-react';
 
 
  import Link from 'next/link';
