@@ -46,6 +46,7 @@ export default function Home() {
     { name: 'Sleep Science', icon: Moon, label: '睡眠科學' },
     { name: 'Longevity', icon: Activity, label: '抗衰老' },
     { name: 'Mental Health', icon: Brain, label: '心理健康' },
+    { name: 'General', icon: Stethoscope, label: '綜合醫學' },
   ];
 
   const filteredNews = news.filter(item => {
