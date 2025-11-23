@@ -59,16 +59,24 @@ async function writeNews(paper, categoryInfo) {
     console.log(`\n🤖 AI 正在為您撰寫專題報導: ${paper.title.substring(0, 30)}...`);
     const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" }); 
     const prompt = `
-    你是一位專業醫學記者。請針對這篇指定的論文撰寫新聞報導。
+    你是一位擅長將複雜醫學研究轉化為引人入勝故事的科普作家。請根據以下指定的論文資訊，撰寫一篇精彩的新聞報導。
+
+    【論文資訊】
     標題: ${paper.title}
     摘要: ${paper.abstract}
     分類: ${categoryInfo.category_zh}
-    【要求】
-    1. 字數 600-800 字 (繁體中文)。
-    2. 結構：引言、背景、發現、結論。
-    3. 語氣：專業但易懂。
-    4. 回傳 JSON 格式，包含 title_zh, title_en, summary, key_points, content_zh, content_en, disclaimer, image_prompt。
-    5. 不要 markdown 標記。
+
+    【寫作要求】
+    1.  **標題 (title_zh)**：吸睛、口語化，點出與讀者生活的關聯或驚人發現，避免學術腔。
+    2.  **摘要 (summary)**：2-3 句引人入勝的短述。
+    3.  **重點整理 (key_points)**：3-4 個實用結論摘要。
+    4.  **內文 (content_zh)**：
+        * 從生活場景切入，深入淺出地解釋研究內容。
+        * **【關鍵要求】使用粗體強調**：請務必使用 Markdown 粗體語法 (**重點文字**) 來標示**最重要的研究發現、關鍵數據或結論**。這能幫助讀者快速鎖定重點。
+        * 結尾提供實際的啟發或建議。
+    5.  **免責聲明 (disclaimer)**：標準科普免責聲明。
+
+    請回傳嚴格的 JSON 格式，包含：title_zh, summary, key_points (陣列), content_zh (Markdown), disclaimer。
     `;
     try {
         const result = await model.generateContent(prompt);
