@@ -1,5 +1,74 @@
 [
   {
+    "id": "1763999905851zbmvp",
+    "pubmed_id": "41277534",
+    "doi": "10.1177/00221465251386416",
+    "title_zh": "你認為什麼是歧視？這個定義可能正在影響你的健康！",
+    "summary": "一項全國性調查顯示，人們對歧視的定義與他們的健康狀況息息相關。即使你沒有親身經歷歧視，你如何看待歧視行為，也會影響你的自我健康評估。",
+    "key_points": [
+      "對歧視的定義與健康狀況之間存在關聯。",
+      "更傾向於將故意行為標籤為歧視的人，自我健康評估較差。",
+      "更傾向於將影響優勢群體（白人、男性、富人）的行為標籤為歧視的人，自我健康評估較好。",
+      "該研究提醒我們，在研究歧視對健康的影響時，應考慮個體對歧視的理解。"
+    ],
+    "content_zh": "你是否曾對某個事件是否構成歧視感到困惑？又或者，你認為什麼樣的行為才算得上歧視？這可能不僅僅是價值觀差異，更可能直接影響到你的健康！\n\n一項發表在PubMed上的研究表明，我們對「歧視」的定義，竟然與我們的健康狀況息息相關。研究人員進行了一項全國性調查實驗，讓2000名參與者評估九種不同的潛在歧視情境。結果令人驚訝：即使考慮到社會人口因素，**一個人如何判斷這些情境是否構成歧視，都與他們的自我健康評估顯著相關**。\n\n具體來說，研究發現，**更傾向於將故意行為定義為歧視的人，自我健康評估通常較差**。這或許是因為他們更敏感，更容易察覺到生活中的不公正，長期累積壓力。另一方面，**更傾向於將影響到優勢群體（例如白人、男性或富人）的事件定義為歧視的人，他們的自我健康評估反而較好**。即使他們自己並沒有親身經歷這些歧視，這種對公平的廣泛關注似乎與更好的健康狀況相關。\n\n換句話說，**你如何看待歧視，可能比你是否親身經歷歧視更重要**。這聽起來有些反直覺，但研究數據支持了這一觀點。研究結果強調，我們不能僅僅關注個體經歷的歧視行為，還需要了解他們對歧視的看法，才能更準確地評估歧視對健康的影響。\n\n這項研究為未來的健康研究提供了新的視角。在衡量歧視對健康的影響時，我們不僅要考慮個體經歷，更要考慮他們對歧視的理解和定義。未來，研究人員可以進一步探索，是什麼因素塑造了人們對歧視的定義，以及如何利用這些知識來改善公共健康。",
+    "category": "Mental Health",
+    "category_zh": "心理健康",
+    "disclaimer": "本報導僅基於研究論文資訊，不構成醫療建議。如有健康疑慮，請諮詢專業醫療人員。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41277534/"
+    },
+    "created_at": "2025-11-24T15:58:25.851Z"
+  },
+  {
+    "id": "1763999898387zflgp",
+    "pubmed_id": "41277537",
+    "doi": "10.1093/nar/gkaf1190",
+    "title_zh": "腸道菌群也能當疾病預測員？全新GMrepo數據庫揭示驚人潛力！",
+    "summary": "你知道嗎？潛藏在你腸道裡的微生物，可能比你想的更了解你的健康狀況！最新GMrepo v3數據庫集結海量數據，成功挖掘出與多種疾病相關的腸道菌群標記，為疾病預測和個性化治療帶來曙光。",
+    "key_points": [
+      "GMrepo v3數據庫大幅擴充，涵蓋更多疾病和樣本，提升了疾病相關微生物分析的全面性。",
+      "研究系統性地識別了健康與疾病狀態下不同的微生物標記，並驗證了其在不同數據集中的穩定性。",
+      "數據庫提供Marker Consistency Index (MCI)，用於評估微生物標記的可靠性，便於研究人員篩選更有效的生物標記。",
+      "GMrepo v3是一個免費開放的資源，可加速腸道菌群研究，並推動個性化醫療的發展。"
+    ],
+    "content_zh": "你是否經常感到疲勞、消化不良，或是長期受慢性疾病困擾？這些問題可能都與你腸道內的微生物息息相關。科學家們正在努力解開腸道菌群的奧秘，希望能找到治療疾病、改善健康的新方法。\n\n最近，發表在PubMed上的一項研究，介紹了最新版本的GMrepo數據庫（GMrepo v3）。這是一個經過精心整理和一致性標注的人類腸道宏基因組數據庫，旨在提高數據的可重用性，並實現跨項目和跨疾病的比較。 **GMrepo v3的數據量得到大幅擴充，包含890個項目和118,965個運行/樣本，其中87,048個是16S rRNA數據集，31,917個是宏基因組數據集**。更重要的是，數據庫涵蓋的疾病數量從133種增加到302種，這意味著研究人員可以進行更全面的疾病相關微生物組分析。\n\n研究人員在GMrepo v3中，系統地識別了不同表型對（例如，健康與患病）之間的微生物標記，並比較了它們在不同數據集中的表現，以尋找可重複的生物標誌物。 **截至目前，GMrepo v3包含1299個與167個表型對相關的標記類群（726個物種和573個屬），這些標記來自275個經過仔細整理的項目**。為了評估標記的穩定性，研究人員開發了Marker Consistency Index（MCI），它總結了標記在不同研究中的流行度和方向一致性。 **在400個在≥10個項目中顯示豐度變化的標記中，有143個在健康對照組中持續富集（MCI > 75%），而85個在疾病中富集（MCI < 25%）**。\n\n這個發現意義重大，因為它表明我們可以利用腸道菌群作為疾病的潛在預測指標。通過分析個體的腸道菌群組成，醫生或許能夠早期發現疾病風險，並制定更個性化的治療方案。\n\nGMrepo v3數據庫是一個免費開放的資源，旨在加速腸道菌群研究，並推動個性化醫療的發展。未來，我們有望通過更深入地了解腸道菌群，開發出更有效的預防和治療疾病的方法，讓每個人都能擁有更健康的生活。",
+    "category": "General",
+    "category_zh": "綜合醫學",
+    "disclaimer": "本報導僅供參考，不能作為醫療建議。如有健康問題，請諮詢專業醫療人員。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41277537/"
+    },
+    "created_at": "2025-11-24T15:58:18.387Z"
+  },
+  {
+    "id": "1763999889347mvw0o",
+    "pubmed_id": "41277539",
+    "doi": "10.1177/08901171251403993",
+    "title_zh": "疫情下的無名英雄：美國照顧者的心理健康亮紅燈！你能為他們做些什麼？",
+    "summary": "一項針對美國照顧者的最新研究顯示，無論疫情前後，照顧者都面臨著比非照顧者更高的心理壓力。疫情期間，這種壓力並未減輕，反而更加凸顯了照顧者群體的脆弱性。研究呼籲制定政策和計畫，改善照顧者的心理健康。",
+    "key_points": [
+      "照顧者的心理壓力顯著高於非照顧者。",
+      "疫情前後，照顧者的心理壓力並未減輕，反而持續存在。",
+      "健康狀況不佳與疫情前的心理壓力增加有關。",
+      "擁有大學或更高學歷可能在疫情期間有助於降低照顧者的心理壓力。"
+    ],
+    "content_zh": "你是否也曾為了照顧家人或朋友，蠟燭兩頭燒，感到身心俱疲？在美國，有無數的無名英雄默默付出，他們就是非專業照顧者。一項發表在 PubMed 的最新研究，揭示了他們不為人知的困境：心理健康正亮起紅燈！\n\n這項研究分析了 2018 年至 2022 年美國全國健康資訊趨勢調查 (HINTS) 的數據，比較了非專業照顧者與非照顧者的心理壓力水平，並探討了疫情前後照顧者心理壓力的變化。研究發現，**整體而言，照顧者的 PHQ-4 (病人健康問卷-4) 平均得分顯著高於非照顧者**。更令人擔憂的是，**無論是疫情前 (OR = 1.47) 還是疫情期間 (OR = 1.51)，照顧者更容易出現心理困擾**。\n\n研究還發現，**疫情前健康狀況不佳與心理壓力增加密切相關 (OR = 2.58)**，而**疫情期間，擁有大學或更高學歷的照顧者心理壓力較低 (OR = 0.46)**。這可能意味著教育程度較高的人群擁有更多的資源和應對策略，能夠更好地適應疫情帶來的挑戰。\n\n這項研究的核心結論是：**照顧者的心理健康問題不容忽視，疫情更是加劇了這一問題**。我們需要認識到照顧者的付出，並提供他們必要的支持和資源，例如心理諮詢、喘息服務、經濟援助等。制定相關政策，才能真正幫助這些默默奉獻的無名英雄。\n\n未來，我們需要更深入地研究不同群體照顧者的需求，例如不同年齡、性別、種族和社會經濟背景的照顧者。此外，還需要評估現有支持計畫的效果，並不斷完善和創新，以更好地滿足照顧者的需求，提升他們的心理健康水平。讓照顧者也能得到照顧，我們的社會才能更加健康和諧。",
+    "category": "Mental Health",
+    "category_zh": "心理健康",
+    "disclaimer": "本報導僅供參考，不能替代專業醫療建議。如有任何健康問題，請諮詢醫生或其他合格的醫療專業人員。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41277539/"
+    },
+    "created_at": "2025-11-24T15:58:09.347Z"
+  },
+  {
     "id": "1763974117134namrj",
     "pubmed_id": "41276863",
     "doi": "10.1186/s41232-025-00398-x",
@@ -1100,79 +1169,5 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41269385/"
     },
     "created_at": "2025-11-21T18:41:36.302Z"
-  },
-  {
-    "id": "1763750482591",
-    "pubmed_id": "41269515",
-    "title_zh": "更年期不只熱潮紅！情緒困擾嚴重影響生活，專家籲重視身心全方位照護",
-    "title_en": "Menopause More Than Hot Flashes: Mental Health Struggles Significantly Impacting Lives, Experts Urge Holistic Care",
-    "summary": "最新研究顯示，更年期荷爾蒙變化不僅帶來生理不適，更嚴重影響女性心理健康，呼籲重視身心全方位照護，提升生活品質。",
-    "key_points": [
-      "更年期荷爾蒙變化影響多種神經傳導物質，引發情緒障礙。",
-      "部分女性在更年期經歷嚴重憂鬱症，甚至出現自殺傾向。",
-      "荷爾蒙補充療法（HRT）應成為更年期情緒困擾的第一線治療。",
-      "臨床知識不足及醫師對HRT的信心不足導致女性無法獲得足夠支持。",
-      "全方位更年期管理，包括HRT、生活方式調整及心理支持，至關重要。"
-    ],
-    "content_zh": "更年期，對許多女性而言，不再只是月經停止和惱人的熱潮紅。最新研究指出，更年期是由於劇烈的荷爾蒙變化，引發包含睡眠品質下降、焦慮、情緒低落、認知功能衰退以及記憶力減退等一系列症狀，進而嚴重影響生活品質。這些變化可能導致社交退縮、人際關係緊張，甚至降低工作能力。\n\n想像一下，大腦就像一座精密的化學工廠，而雌激素、黃體素和睪固酮等荷爾蒙，就像是控制生產線的重要開關。當更年期來臨，這些開關開始不穩定地波動，影響了血清素、異孕酮和γ-氨基丁酸(GABA)等關鍵神經傳導物質的平衡，進而導致情緒失控。研究發現，部分女性甚至因此出現嚴重憂鬱症，甚至有自殺傾向，中年女性自殺率高峰就反映了這個嚴峻的現實。\n\n儘管英國國家卓越健康與照護研究院（NICE）已將荷爾蒙補充療法（HRT）列為緩解更年期情緒困擾的第一線治療方案，但臨床實務上仍存在許多問題。許多醫師對於HRT的認識不足，信心也不夠，導致許多女性無法獲得適當的治療與支持，獨自承受身心煎熬。\n\n該研究強調，更年期管理應採取全方位的 biopsychosocial (生物-心理-社會)模式。除了HRT，生活方式的調整，如規律運動、健康飲食和充足睡眠，以及心理諮詢和支持團體等心理層面的支持，都至關重要。透過改善醫師的專業培訓、加強相關研究，並提供更個人化的治療方案，才能真正改善受影響女性的生活，並維護她們的長期健康。由於女性一生中約有40%的時間處於更年期後，加上更年期前期長達12年，身心挑戰更為嚴峻，因此有效的更年期管理應成為公共衛生領域的當務之急。",
-    "content_en": "For many women, menopause is more than just the end of menstruation and bothersome hot flashes. New research indicates that menopause, triggered by dramatic hormonal changes, leads to a range of symptoms, including decreased sleep quality, anxiety, low mood, cognitive decline, and memory loss, which significantly impact their quality of life. These changes can lead to social withdrawal, strained relationships, and even reduced work capacity.\n\nImagine the brain as a sophisticated chemical factory, with hormones like estrogen, progesterone, and testosterone acting as critical switches controlling the production line. As menopause approaches, these switches begin to fluctuate erratically, affecting the balance of key neurotransmitters like serotonin, allopregnanolone, and gamma-aminobutyric acid (GABA), leading to emotional dysregulation. Studies have found that some women even experience severe depression and suicidal tendencies as a result, with the peak of women's suicide rates in midlife reflecting this harsh reality.\n\nDespite the National Institute of Clinical Excellence (NICE) in the UK listing hormone replacement therapy (HRT) as a first-line treatment for perimenopausal mood disturbance, there are still many problems in clinical practice. Many doctors lack sufficient knowledge and confidence in HRT, leaving many women unable to receive appropriate treatment and support, and struggling physically and mentally.\n\nThe research emphasizes that menopause management should adopt a holistic biopsychosocial model. In addition to HRT, lifestyle adjustments such as regular exercise, a healthy diet, and adequate sleep, as well as psychological support such as counseling and support groups, are essential. By improving the professional training of doctors, strengthening related research, and providing more personalized treatment plans, the lives of affected women can be truly improved, and their long-term health can be maintained. Since women spend about 40% of their lives post-menopause, coupled with the fact that the pre-menopause period lasts up to 12 years, and the physical and mental challenges are more severe, effective menopause management should be a public health priority.",
-    "disclaimer": "本報導僅供參考，非醫療建議。如有任何健康問題，請諮詢專業醫師。",
-    "image_prompt": "medical illustration style, minimalist, menopause, hormonal imbalance, mental health, brain, women",
-    "category": "Mental Health",
-    "category_zh": "心理健康",
-    "source": {
-      "journal": "Advances in therapy",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41269515/"
-    },
-    "created_at": "2025-11-21T18:41:22.591Z"
-  },
-  {
-    "id": "1763750469982",
-    "pubmed_id": "41266379",
-    "title_zh": "膠原蛋白新突破！特定胺基酸配比逆轉生理年齡",
-    "title_en": "Collagen Breakthrough: Specific Amino Acid Ratio Reverses Biological Age",
-    "summary": "最新研究顯示，特定比例膠原蛋白胺基酸補充劑可減少生理年齡，並延長動物健康壽命。",
-    "key_points": [
-      "特定胺基酸配比：甘胺酸:脯胺酸:羥脯胺酸 = 3:1:1",
-      "臨床試驗：受試者生理年齡平均降低1.4歲",
-      "動物實驗：提升握力，減少老化相關脂肪堆積"
-    ],
-    "content_zh": "你是否也擔心歲月在臉上留下痕跡，或是感覺身體機能大不如前？一項發表在最新期刊的研究，或許能帶來一線曙光。研究指出，透過補充特定比例的膠原蛋白胺基酸，不僅能改善皮膚狀況，甚至有機會逆轉生理年齡。\n\n膠原蛋白對維持皮膚彈性至關重要，但單純補充膠原蛋白效果如何？本次研究揭示了關鍵：並非所有膠原蛋白都一樣有效。研究團隊發現，起作用的是特定胺基酸的比例，就像製作蛋糕需要特定的食材配方一樣。這個「秘方」是甘胺酸、脯胺酸和羥脯胺酸，比例為3:1:1。研究人員發現，這種比例能有效促進膠原蛋白的生成，並對抗老化。\n\n研究團隊透過多項實驗驗證了這一發現。在線蟲實驗中，補充該胺基酸配比顯著延長了線蟲的健康壽命和整體壽命。在老年小鼠實驗中，補充該配比能提升握力，並有效預防與年齡增長相關的脂肪堆積。最令人振奮的是人體臨床試驗。一項為期六個月的臨床觀察試驗（ISRCTN93189645, 03.07.2025）顯示，受試者在口服補充該胺基酸配比後，皮膚狀況得到改善，更重要的是，他們的生理年齡平均降低了1.4歲（p=0.04）。這項數據具有統計學意義，暗示著胺基酸配比確實具有逆轉生理時鐘的潛力。\n\n這項研究成果為抗衰老領域帶來了新思路。雖然目前的證據主要來自於小規模臨床試驗，但其結果已經足夠令人期待。未來，更大規模、更長期的臨床研究將有助於進一步驗證其效果。在諮詢專業醫師或營養師的建議後，選擇含有正確胺基酸配比的膠原蛋白補充劑，或許能成為你健康老化策略的一部分。 謹記，均衡飲食和健康的生活方式，始終是維持年輕活力的基石。",
-    "content_en": "Are you worried about the signs of aging on your face or feeling a decline in your physical functions? A recent study offers a glimmer of hope. It suggests that supplementing with a specific ratio of collagen amino acids can not only improve skin condition but potentially reverse biological age.\n\nCollagen is crucial for maintaining skin elasticity, but how effective is simply supplementing with collagen? This study reveals the key: not all collagen is created equal. The research team identified the critical factor: a specific ratio of amino acids. Like a cake recipe requiring particular ingredients, this \"secret formula\" consists of glycine, proline, and hydroxyproline in a ratio of 3:1:1. Researchers found this ratio effectively promotes collagen production and combats aging.\n\nThe research team validated this discovery through multiple experiments. In nematode experiments, supplementing with this amino acid ratio significantly extended the healthspan and lifespan of C. elegans. In older mice, supplementation improved grip strength and effectively prevented age-related fat accumulation. Most excitingly, human clinical trials showed promising results. A six-month clinical observational trial (ISRCTN93189645, 03.07.2025) showed that participants who orally supplemented with the amino acid ratio experienced improved skin condition, and, more importantly, their biological age decreased by an average of 1.4 years (p=0.04). This statistically significant data suggests the potential of the amino acid ratio to reverse the biological clock.\n\nThis research provides new avenues for anti-aging strategies. While current evidence primarily comes from small-scale clinical trials, the results are promising. Larger, longer-term clinical studies will help further validate these effects. After consulting with a healthcare professional or nutritionist, choosing a collagen supplement containing the correct amino acid ratio could be part of your healthy aging strategy. Remember, a balanced diet and healthy lifestyle remain the cornerstones of maintaining youthful vitality.",
-    "disclaimer": "本報導僅供參考，非醫療建議。請諮詢專業醫療人員的意見。",
-    "image_prompt": "medical illustration style, minimalist, collagen amino acid ratio, anti-aging, skin health",
-    "category": "Longevity",
-    "category_zh": "抗衰老",
-    "source": {
-      "journal": "npj aging",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41266379/"
-    },
-    "created_at": "2025-11-21T18:41:09.982Z"
-  },
-  {
-    "id": "1763750457768",
-    "pubmed_id": "41266803",
-    "title_zh": "大腦新發現：海馬迴與小腦的秘密連結隨年齡衰退",
-    "title_en": "Brain Discovery: Hippocampus-Cerebellum Link Fades with Age",
-    "summary": "研究揭示海馬迴與小腦在人類大腦中的連結，以及此連結如何隨年齡衰退，或影響記憶與空間認知。",
-    "key_points": [
-      "海馬迴與小腦存在功能連結",
-      "連結強度隨年齡下降",
-      "不同海馬迴區域與不同小腦區域連結"
-    ],
-    "content_zh": "記憶力衰退是許多人步入老年時面臨的挑戰。一項最新的研究指出，大腦中負責記憶的海馬迴，與負責協調運動的小腦之間，存在著密切的功能連結，而這個連結會隨著年齡增長而減弱，這或許能解釋部分記憶力衰退的原因。\n\n想像一下，海馬迴就像導航系統的GPS，負責儲存地圖和路徑；小腦則像是汽車的自動駕駛系統，負責精確控制方向盤和油門。過去的研究大多認為，海馬迴主要負責長期記憶和空間認知，而小腦則負責運動協調。然而，新的證據顯示，這兩個區域並非各自獨立運作，而是透過複雜的神經迴路相互連結，共同參與認知過程。例如，當我們在熟悉的環境中行走時，海馬迴會提取相關的空間記憶，而小腦則會協調我們的步伐和平衡，兩者協同合作，讓我們能夠順利到達目的地。\n\n這項研究分析了479位18至88歲認知功能正常人士的靜息態功能性磁振造影（fMRI）數據。研究人員發現，海馬迴與小腦皮層的廣泛區域存在顯著的功能相關性，尤其是在HIV、HV、HVI、HVIIA (Crus I 和 II)、HIX 和 HX等小腦蚓部。更重要的是，前海馬迴與右側Crus II區域的連結更強，而後海馬迴則與蚓部V區域的連結更強。這暗示著海馬迴的不同部分可能與小腦的不同區域進行特定功能的交流。\n\n研究中最引人注目的發現是，海馬迴與小腦的連結強度會隨著年齡增長而下降，特別是在HVI和HV區域。這項發現暗示，隨著年齡的增長，海馬迴和小腦之間的溝通效率降低，可能導致認知功能的衰退。因此，維持海馬迴和小腦之間的連結強度，可能成為延緩老年認知衰退的關鍵策略。未來的研究可以進一步探討，透過運動、認知訓練或其他介入方式，是否能夠增強海馬迴與小腦的連結，從而改善老年人的記憶力和其他認知功能。例如，一些研究表明，平衡訓練可以刺激小腦，並改善老年人的認知功能。",
-    "content_en": "Memory decline is a challenge faced by many as they age. A new study indicates a close functional connection between the hippocampus, responsible for memory, and the cerebellum, responsible for motor coordination. This link weakens with age, potentially explaining some memory decline.\n\nImagine the hippocampus as a GPS navigation system storing maps and routes, and the cerebellum as a car's autopilot, precisely controlling the steering wheel and throttle. Traditionally, the hippocampus was mainly responsible for long-term memory and spatial cognition, while the cerebellum was responsible for motor coordination. However, new evidence suggests that these areas don't operate independently but are interconnected via complex neural circuits, jointly participating in cognitive processes. For example, when walking in a familiar environment, the hippocampus retrieves spatial memories, and the cerebellum coordinates our steps and balance. They work together to help us reach our destination smoothly.\n\nThis study analyzed resting-state functional magnetic resonance imaging (fMRI) data from 479 cognitively normal participants aged 18-88. The researchers found significant functional correlations between the hippocampus and widespread areas of the cerebellar cortex, particularly in lobules HIV, HV, HVI, HVIIA (Crus I and II), HIX, and HX. Furthermore, the anterior hippocampus showed stronger connectivity with the right Crus II region, while the posterior hippocampus was strongly connected to the vermal lobule V. This suggests that different parts of the hippocampus may be communicating with different regions of the cerebellum for specific functions.\n\nThe most striking finding was that the strength of the hippocampus-cerebellum connection decreases with age, especially in the HVI and HV regions. This suggests that communication efficiency between the hippocampus and cerebellum decreases with age, potentially leading to cognitive decline. Therefore, maintaining the strength of the connection between the hippocampus and cerebellum may be a key strategy to delay cognitive decline in old age. Future research could further explore whether exercise, cognitive training, or other interventions can enhance the connection between the hippocampus and cerebellum, thereby improving memory and other cognitive functions in older adults. For instance, some studies suggest that balance training can stimulate the cerebellum and improve cognitive function in the elderly.",
-    "disclaimer": "本報導僅供參考，非醫療建議。如有任何健康問題，請諮詢專業醫療人員。",
-    "image_prompt": "medical illustration style, minimalist, hippocampus cerebellum functional connectivity, brain aging",
-    "category": "Longevity",
-    "category_zh": "抗衰老",
-    "source": {
-      "journal": "Communications biology",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41266803/"
-    },
-    "created_at": "2025-11-21T18:40:57.768Z"
   }
 ]
