@@ -1,5 +1,143 @@
 [
   {
+    "id": "17639735187664dxte",
+    "pubmed_id": "41276868",
+    "doi": "10.1186/s13287-025-04783-8",
+    "title_zh": "膝蓋痛到舉步維艱？幹細胞外泌體有望讓你重獲新生！",
+    "summary": "膝關節骨關節炎折磨全球數百萬人，疼痛難忍，生活品質大打折扣。最新研究顯示，幹細胞及其外泌體（MSC-EVs）在治療膝關節骨關節炎方面展現出驚人的潛力，有望成為告別疼痛、重拾靈活的革命性療法。",
+    "key_points": [
+      "幹細胞外泌體（MSC-EVs）具有抗炎、促進軟骨再生的特性，能有效緩解膝關節骨關節炎的疼痛。",
+      "MSC-EVs 通過調節免疫反應、抑制炎症通路來改善關節微環境。",
+      "工程化改造的外泌體能更精準地靶向受損軟骨，提升治療效果。",
+      "未來研究將聚焦於優化外泌體的生產和給藥方式，以實現更高效、更精準的治療。"
+    ],
+    "content_zh": "你是否曾經因為膝蓋疼痛，連爬樓梯都變得困難？是否因為膝關節骨關節炎，而不得不放棄喜愛的運動？這種痛苦影響著全球數百萬人的生活品質。\n\n現在，好消息來了！一項發表在 PubMed 上的最新研究顯示，**間充質幹細胞（MSCs）及其外泌體（MSC-EVs）在治療膝關節骨關節炎（KOA）方面展現出巨大的潛力**。傳統的治療方法往往只能緩解症狀，而無法真正修復受損的軟骨。但研究發現，**MSC-EVs 具有抗炎、促進軟骨再生的能力**，能從根本上改善關節狀況。\n\n具體來說，MSC-EVs 如何發揮作用呢？研究表明，**MSC-EVs 通過調節巨噬細胞的極化、抑制 NF-κB 和 MAPK 等關鍵炎症通路，以及抑制 IL-1β 和 TNF-α 等促炎細胞因子的釋放，來改善關節炎症微環境**。此外，**MSC-EVs 還能保護細胞外基質的完整性，促進軟骨細胞的增殖和遷移，同時抑制其凋亡和衰老**。換句話說，MSC-EVs 不僅能消炎止痛，還能修復受損的軟骨，讓膝關節重獲新生。\n\n更令人興奮的是，科學家們正在探索**工程化改造的外泌體技術**。通過將軟骨細胞靶向肽修飾到外泌體表面，或將治療性分子（如藥物、miRNA、siRNA）裝載到外泌體中，可以**更精準地將活性物質遞送到受損軟骨，從而更有效地緩解 KOA 症狀**。這項技術有望實現真正的精準治療。\n\n當然，目前 MSC-EVs 的臨床應用還面臨一些挑戰，例如外泌體的生產標準化和給藥方式優化等。但毫無疑問，**MSC-EVs 為膝關節骨關節炎的治療帶來了新的希望**。未來，我們期待看到更多研究成果，將這項技術轉化為真正惠及廣大患者的臨床應用，讓更多人擺脫膝蓋疼痛的困擾，重拾健康靈活的生活！",
+    "category": "General",
+    "category_zh": "綜合醫學",
+    "disclaimer": "本報導基於研究論文資訊，僅供參考，不構成醫療建議。如有健康問題，請諮詢專業醫師。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41276868/"
+    },
+    "created_at": "2025-11-24T08:38:38.766Z"
+  },
+  {
+    "id": "1763973510465xmyun",
+    "pubmed_id": "41276869",
+    "doi": "10.1186/s13287-025-04815-3",
+    "title_zh": "吃太多止痛藥傷肝？幹細胞療法有望修復受損肝臟線粒體！",
+    "summary": "過量服用普拿疼等含乙醯胺酚的止痛藥，是藥物性肝損傷的主要原因。最新研究發現，間質幹細胞療法可能透過調控肝臟細胞內的線粒體功能，有效減輕乙醯胺酚引起的肝損傷。這項研究揭示了一個全新的治療方向，有望為藥物性肝損傷患者帶來福音。",
+    "key_points": [
+      "脂肪來源的間質幹細胞（AMSCs）可顯著降低乙醯胺酚引起的肝壞死、氧化壓力和線粒體功能障礙。",
+      "AMSCs 通過激活 DDIT4/PGC-1α 信號通路，促進線粒體生成和自噬，從而恢復肝臟線粒體功能。",
+      "敲除肝細胞中的 DDIT4 基因會加劇乙醯胺酚引起的肝損傷，且 AMSCs 治療無法逆轉。",
+      "該研究為幹細胞療法治療乙醯胺酚引起的肝損傷提供了新的機制視角，並為臨床藥物開發提供了潛在靶點。"
+    ],
+    "content_zh": "你是否曾經因為頭痛、發燒，而吞下一顆又一顆的止痛藥？雖然止痛藥能暫時緩解不適，但你知道過量服用可能對肝臟造成嚴重傷害嗎？尤其像普拿疼這類含有乙醯胺酚的止痛藥，一旦超量，就可能引發藥物性肝損傷，嚴重時甚至可能導致肝衰竭！\n\n傳統上，藥物性肝損傷的治療選擇相當有限，因此科學家們一直積極尋找更有效的療法。近期，一項發表在 PubMed 上的研究帶來了令人振奮的消息：**脂肪來源的間質幹細胞（AMSCs）療法，可能成為治療乙醯胺酚引起肝損傷的新希望！**\n\n這項研究發現，在乙醯胺酚引起的肝損傷小鼠模型中，**AMSCs 治療顯著降低了肝壞死、氧化壓力和線粒體功能障礙。** 這是怎麼做到的呢？研究人員進一步發現，AMSCs 通過激活肝細胞中的 **DDIT4/PGC-1α 信號通路，促進線粒體的生成和自噬，從而恢復受損的線粒體功能。** 簡單來說，就是幹細胞幫助肝臟細胞「自力更生」，修復受損的能量工廠（線粒體），讓肝臟重新恢復活力。\n\n更令人驚訝的是，當研究人員敲除了小鼠肝細胞中的 DDIT4 基因後，乙醯胺酚引起的肝損傷反而更加嚴重，而且 AMSCs 治療也失去了原有的效果。這說明 **DDIT4 在 AMSCs 的治療過程中扮演著至關重要的角色。**\n\n總而言之，這項研究表明，**幹細胞療法有望透過調控線粒體功能，有效減輕乙醯胺酚引起的肝損傷。** 更重要的是，它揭示了 **DDIT4/PGC-1α 通路在保護肝臟線粒體中的關鍵作用，** 為開發治療藥物性肝損傷的全新標靶提供了可能。雖然目前的研究還停留在動物實驗階段，但相信在不久的將來，我們就能看到幹細胞療法在臨床上的應用，為更多藥物性肝損傷患者帶來福音！",
+    "category": "General",
+    "category_zh": "綜合醫學",
+    "disclaimer": "本報導僅基於研究論文進行科普解讀，不構成醫療建議。如有健康疑慮，請諮詢專業醫師。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41276869/"
+    },
+    "created_at": "2025-11-24T08:38:30.465Z"
+  },
+  {
+    "id": "1763973500402byiyy",
+    "pubmed_id": "41276872",
+    "doi": "10.1186/s40842-025-00240-w",
+    "title_zh": "妊娠糖尿病後遺症難逃？孕期這樣做，一年後代謝健康大不同！",
+    "summary": "妊娠糖尿病的媽媽們，是否擔心產後代謝問題找上門？最新研究發現，孕期維持良好心肺功能和肌肉力量，能有效降低產後一年的血糖異常、胰島素阻抗和代謝症候群風險。尤其是肌肉力量，影響更是獨立於其他風險因素！",
+    "key_points": [
+      "孕期較佳的心肺功能（CRF）與產後一年較低的血糖異常、代謝症候群和胰島素阻抗風險相關。",
+      "孕期較高的手握力（HS），代表較強的肌肉力量，與產後一年較低的發炎指標（CRP）、胰島素阻抗，以及較高的胰島素敏感性（MATSUDA index）相關。",
+      "肌肉力量對代謝健康的保護作用，不受年齡、家族史、孕前BMI等傳統糖尿病風險因素影響。",
+      "孕期運動對妊娠糖尿病媽媽的產後健康至關重要。"
+    ],
+    "content_zh": "身為妊娠糖尿病媽媽，迎接新生命喜悅的同時，是否也擔心產後代謝問題接踵而來？血糖忽高忽低、體重難以控制、甚至埋下未來糖尿病的隱患，這些都是許多媽媽們共同的困擾。\n\n別擔心！最新發表在PubMed上的一項研究給了我們希望。這項研究針對179位妊娠糖尿病女性進行追蹤，發現孕期維持良好的心肺功能和肌肉力量，對於產後一年的代謝健康有著顯著的保護作用。\n\n研究人員利用 Chester Step test 評估孕婦的心肺功能（CRF），並透過手握力（HS）來衡量肌肉力量。一年後，他們檢測了這些媽媽們的血糖、胰島素阻抗等指標。結果發現：\n\n*   **孕期較佳的心肺功能與產後一年較低的血糖異常、代謝症候群和胰島素阻抗風險相關**。\n*   更令人驚喜的是，**孕期較高的手握力（代表較強的肌肉力量）與產後一年較低的發炎指標（CRP）、胰島素阻抗，以及較高的胰島素敏感性相關**。更重要的是，**這種肌肉力量對代謝健康的保護作用，不受年齡、家族史、孕前BMI等傳統糖尿病風險因素影響**！\n\n換句話說，即使你屬於高風險族群，透過加強肌肉力量，也能有效預防產後代謝問題。\n\n**這項研究的核心結論是：孕期運動，特別是針對心肺功能和肌肉力量的訓練，對於妊娠糖尿病媽媽的產後健康至關重要**。這不僅能幫助媽媽們更好地恢復身材，更能降低未來罹患糖尿病和其他代謝疾病的風險。\n\n雖然這項研究已經給予我們重要的啟示，但未來還需要更大規模的研究來驗證這些發現，並進一步探討不同運動方式和強度的最佳組合。同時，我們也期待更多研究能關注不同族群妊娠糖尿病媽媽的獨特需求，為她們量身定制更有效的運動方案。 讓我們一起為妊娠糖尿病媽媽的健康加油！",
+    "category": "General",
+    "category_zh": "綜合醫學",
+    "disclaimer": "本報導僅基於研究論文資訊進行科普解讀，不能取代專業醫療建議。如有健康疑慮，請諮詢醫生。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41276872/"
+    },
+    "created_at": "2025-11-24T08:38:20.403Z"
+  },
+  {
+    "id": "17639716564926pisg",
+    "pubmed_id": "41276864",
+    "doi": "10.1111/nbu.70037",
+    "title_zh": "越吃越健康？土耳其人飲食中的「反營養素」含量竟然增加了！",
+    "summary": "一項針對土耳其飲食的研究發現，2010年至2017年間，土耳其人膳食中植酸的攝入量顯著增加。研究指出，儘管植酸可能影響鐵和鋅的吸收，但在普遍貧血的地區，結合其他促進鐵吸收的植物性食物，可能有助於改善營養狀況。",
+    "key_points": [
+      "2010年至2017年間，土耳其人每日植酸攝入量顯著增加。",
+      "麵包和穀物是土耳其飲食中植酸的主要來源。",
+      "研究顯示，土耳其人群體普遍存在鋅生物利用度中等和鐵生物利用度低的現象。",
+      "在貧血流行的地區，食用富含植酸的植物性食物並結合促進鐵吸收的食物，可能是有益的。"
+    ],
+    "content_zh": "你有沒有聽過「植酸」？它存在於許多植物性食物中，長期以來被認為是「反營養素」，因為它會阻礙身體對鐵、鋅等重要礦物質的吸收。對於每天都在精打細算，想讓自己和家人吃得更健康的人來說，這無疑是個壞消息！\n\n但最近一項針對土耳其飲食的研究，卻帶來了不一樣的視角。這項研究分析了2010年和2017年土耳其營養與健康調查（TNHS）的數據，發現 **2010年至2017年間，土耳其人每日植酸攝入量從535.3毫克增加到658.0毫克，而且差異非常顯著（p < 0.001）**。那麼，植酸攝入量增加是好是壞呢？\n\n研究進一步指出，**麵包和穀物是土耳其飲食中植酸的主要來源**，並且顯示 **大部分受試者的鋅生物利用度為中等，鐵生物利用度較低**。這似乎驗證了植酸作為「反營養素」的說法。\n\n然而，研究人員的結論卻出人意料。他們強調，**對於沒有礦物質缺乏問題的人來說，完全避免植酸攝入是不必要的**。更重要的是，**在像土耳其這樣貧血普遍存在的地區，食用富含植酸的植物性食物，並同時攝取其他可以促進鐵吸收的食物，反而可能對健康有益**。這顛覆了我們對植酸的傳統認知！\n\n這項研究提醒我們，營養吸收是一個複雜的過程，單純將植酸視為「反營養素」可能過於簡化。未來，我們需要更深入地研究植酸在不同飲食結構下的影響，以及如何通過更合理的膳食搭配，來最大程度地發揮植物性食物的營養價值。也許，植酸並不是敵人，而是需要我們了解和利用的資源。",
+    "category": "General",
+    "category_zh": "綜合醫學",
+    "disclaimer": "本報導僅供參考，不能替代專業醫療建議。如有任何健康問題，請諮詢醫生或其他合格的醫療專業人員。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41276864/"
+    },
+    "created_at": "2025-11-24T08:07:36.492Z"
+  },
+  {
+    "id": "1763971647195u2y4k",
+    "pubmed_id": "41276883",
+    "doi": "10.1080/17441692.2025.2576758",
+    "title_zh": "對抗結核病，營養補充是關鍵？研究揭示家庭送餐優於現金補助！",
+    "summary": "最新研究發現，營養不良是結核病流行的主要推手。針對結核病患者的家庭成員提供營養補充，能有效預防疾病發生，但補充方式大有學問！研究表明，實物送餐比現金補助更受歡迎，且食物的文化適應性和烹飪便捷性至關重要。",
+    "key_points": [
+      "營養不良是結核病流行的重要因素，營養補充有助於預防。",
+      "直接提供食物（實物送餐）比提供現金更受參與者歡迎。",
+      "食物的文化適應性和易於準備是營養補充方案成功的關鍵。",
+      "未來的結核病防治計劃應考慮到以上因素，提升營養干預的效果。"
+    ],
+    "content_zh": "你是否知道，結核病不僅僅是一種傳染病，更與營養狀況息息相關？許多結核病患者和他們的家人都面臨著營養不良的困境，這不僅削弱了他們的抵抗力，也增加了疾病的傳播風險。\n\n近日，一項發表在PubMed上的研究——“結核病：從營養補充的經驗中學習（TB LENS）”，深入探討了營養補充對於結核病患者及其家庭成員的重要性。這項研究是大型的TB LION研究的一部分，該研究旨在評估營養補充對潛伏性結核病轉為活動性結核病的影響。TB LENS則著重於了解人們對營養補充的態度和意見，為未來的干預措施提供參考。\n\n研究人員通過深入訪談和焦點團體討論，收集了結核病患者的家庭成員、當地醫護人員以及研究營養師的意見。結果顯示，**文化適應性是營養干預成功的關鍵因素**。參與者更喜歡那些他們喜歡吃並且容易烹飪的食物。此外，一個令人驚訝的發現是：**相較於現金補助，大多數人更喜歡直接將食物送到家裡**。這可能是因為實物更容易管理，也更能確保營養被真正用於改善健康狀況。\n\n這項研究的結論非常明確：未來的結核病防治計劃應該充分考慮到這些因素。**在提供營養補充時，選擇符合當地文化、易於準備的食物，並採用直接送餐的方式，更有可能提高參與者的接受度和配合度，進而提升營養干預的效果**。這不僅有助於預防結核病，也能改善患者及其家庭的生活質量。\n\n未來，我們期待更多的研究能夠深入探討營養補充在結核病防治中的作用，並開發出更有效、更人性化的干預措施，讓更多人擺脫結核病的威脅。",
+    "category": "General",
+    "category_zh": "綜合醫學",
+    "disclaimer": "本報導僅基於研究論文資訊進行解讀，不構成醫療建議。如有健康問題，請諮詢專業醫師。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41276883/"
+    },
+    "created_at": "2025-11-24T08:07:27.195Z"
+  },
+  {
+    "id": "1763971639547yhtqu",
+    "pubmed_id": "41276885",
+    "doi": "10.1002/jsfa.70317",
+    "title_zh": "睡不著、壓力大？一杯菊花茶，或許能讓你找回好眠與年輕！",
+    "summary": "最新研究發現，菊花萃取物不只抗氧化，更能有效改善睡眠品質！關鍵成分Luteolin-7-glucoside (L-7-G) 透過調節GABA神經傳導，讓你擺脫失眠困擾，同時對抗氧化壓力，保護腦細胞。",
+    "key_points": [
+      "菊花萃取物具有強效抗氧化能力，能保護腦細胞免受氧化壓力損害。",
+      "菊花萃取物（特別是L-7-G）能顯著延長睡眠時間，提升睡眠深度。",
+      "菊花萃取物透過調節GABA受體，改善咖啡因引起的失眠問題。",
+      "菊花萃取物有望成為改善睡眠品質和對抗氧化壓力的天然保健品。"
+    ],
+    "content_zh": "你是否常常輾轉難眠，明明身體很疲憊，腦袋卻像跑馬燈一樣停不下來？現代生活壓力大，失眠、淺眠幾乎成了許多人的日常。長期下來，不僅影響工作效率，更加速老化，對健康造成嚴重危害。\n\n現在，一項來自最新的研究帶來了一線曙光。研究發現，傳統藥材**菊花萃取物(CE)具有顯著的抗氧化與助眠效果**！科學家們透過細胞實驗和動物模型發現，菊花萃取物不僅能有效降低氧化壓力，保護腦細胞HT22免受損傷，更能**透過調節GABA神經傳導，延長睡眠時間，提升睡眠品質**。 \n\n研究人員更進一步鎖定了菊花萃取物中的關鍵成分——**Luteolin-7-glucoside (L-7-G)**。實驗證明，L-7-G同樣具備強大的抗氧化與助眠能力，甚至在某些方面與整體菊花萃取物效果相當。在以戊巴比妥誘導睡眠的模型中，菊花萃取物**使睡眠持續時間增加了1.41倍**，效果十分顯著。\n\n更令人振奮的是，研究團隊還發現，菊花萃取物能有效改善咖啡因引起的失眠。它能**減少清醒時間，恢復正常睡眠結構，並通過增強δ波活動來對抗睡眠障礙**。 這些益處的背後，與菊花萃取物**促進GABA和5-HT受體表達有關**。GABA是一種重要的神經遞質，具有鎮靜和放鬆的作用，而5-HT則與情緒調節有關。\n\n這項研究表明，菊花萃取物，尤其是其中的L-7-G， **具有成為改善睡眠品質和對抗氧化壓力的天然保健品的潛力**。未來，我們或許能透過更方便、天然的方式，擺脫失眠困擾，找回年輕活力。當然，這項研究仍需更多臨床試驗驗證其在人類身上的效果，但它無疑為我們提供了一個令人期待的新方向。",
+    "category": "Sleep Science",
+    "category_zh": "睡眠科學",
+    "disclaimer": "本報導僅基於研究論文資訊，不構成醫療建議。如有睡眠問題，請諮詢專業醫師。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41276885/"
+    },
+    "created_at": "2025-11-24T08:07:19.547Z"
+  },
+  {
     "id": "1763958324569j0jgu",
     "pubmed_id": "41275551",
     "doi": "10.1016/j.foodchem.2025.147153",
@@ -1039,127 +1177,5 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41269527/"
     },
     "created_at": "2025-11-21T18:31:36.543Z"
-  },
-  {
-    "id": "1763749884857",
-    "pubmed_id": "41269647",
-    "title_zh": "新加坡研究：PrEP 不僅防愛滋，還能改善性少數群體心理健康",
-    "title_en": "Singapore Study: PrEP Improves Mental Health in Sexual Minorities, Beyond HIV Prevention",
-    "summary": "新加坡一項研究發現，PrEP 不僅能有效預防愛滋病毒，還能顯著降低性少數群體的憂鬱、愛滋污名化以及對 PrEP 本身的負面觀感。",
-    "key_points": [
-      "PrEP 顯著降低憂鬱、愛滋污名化和 PrEP 污名化",
-      "PrEP 提升性自信和健康自主性",
-      "社會對 PrEP 的負面觀感仍是挑戰"
-    ],
-    "content_zh": "許多人認為 PrEP（暴露前預防性投藥）只是預防愛滋病毒的藥物，但最新研究顯示，它還能改善心理健康。對新加坡的性少數男性來說，服用 PrEP 不僅是保護自己免受 HIV 感染，更是一種心理上的解放。\n\n想像一下，愛滋病毒就像潛伏在生活中的陰影，讓人時刻感到焦慮。PrEP 就像一把堅固的雨傘，能讓人們在面對性行為時，不再過度擔憂感染風險。這種安全感並非空穴來風，它來自藥物的有效性，以及對自身健康的掌控感。\n\n一項針對 53 名 HIV 陰性的新加坡男性的研究，追蹤了他們服用 PrEP 12 個月的心理變化。研究結果顯示，參與者在服用 PrEP 後，憂鬱症狀顯著減輕（調整係數 = -1.55），對愛滋病毒的污名化觀感也明顯下降（-2.26）。更重要的是，他們對 PrEP 本身的負面印象也減少了（-2.08）。研究還發現，PrEP 讓他們更有自信，更積極地管理自己的健康。\n\n雖然研究並未直接量化焦慮程度，但受訪者的描述顯示，PrEP 的確減輕了他們對 HIV 感染的恐懼。然而，社會上對 PrEP 使用者的刻板印象，例如認為他們性生活混亂，仍然存在。這種負面觀感阻礙了 PrEP 的普及和持續使用。研究人員也注意到，雖然有些人擔心服用 PrEP 後會減少使用保險套，但實際數據並未證實這一點。\n\n研究的另一項重要發現是，PrEP 有助於消除對 HIV 感染者的污名化。參與者表示，服用 PrEP 後，他們對 HIV 感染者更加理解和同情，這改善了他們在性生活和社交關係中的互動。研究人員強調，PrEP 不僅是一種生物醫學干預措施，也是一種心理支持。為了充分發揮 PrEP 的公共衛生效益，他們建議加強公眾教育，消除對 PrEP 使用者的誤解，並將 PrEP 諮詢納入基層醫療和性健康服務。此外，還應為醫療保健提供者提供 LGBTQ+ 友善的培訓，並提供經濟補貼，以提高 PrEP 的可負擔性。\n\n總之，PrEP 的益處遠不止預防愛滋病毒。它能改善心理健康，增強性少數群體的幸福感。在制定愛滋病防治策略時，應優先考慮 PrEP 的普及，並積極消除社會上的污名化觀感。",
-    "content_en": "Many perceive PrEP (pre-exposure prophylaxis) solely as a medication for HIV prevention, but recent research reveals its positive impact on mental well-being. For sexual minority men in Singapore, taking PrEP is not only about protecting themselves from HIV, but also experiencing psychological liberation.\n\nImagine HIV as a lurking shadow in life, causing constant anxiety. PrEP acts as a sturdy umbrella, allowing individuals to approach sexual encounters without excessive fear of infection. This sense of security stems from the drug's efficacy and the feeling of control over one's health.\n\nA study following 53 HIV-negative Singaporean men for 12 months revealed significant psychological changes after initiating PrEP. Participants experienced a notable reduction in depressive symptoms (adjusted coefficient = -1.55) and a decrease in HIV-related stigma (-2.26). Crucially, their negative perceptions of PrEP itself also lessened (-2.08). The study also showed that PrEP empowered them with greater confidence and a more proactive approach to managing their health.\n\nWhile the study didn't directly quantify anxiety levels, participant narratives indicated that PrEP relieved their fear of HIV infection. However, societal stereotypes surrounding PrEP users, such as the perception of promiscuity, persist. This negativity hinders PrEP's widespread adoption and adherence. Researchers also noted concerns about reduced condom use after starting PrEP, but behavioral data didn't support these apprehensions.\n\nAnother key finding was PrEP's role in destigmatizing individuals living with HIV. Participants reported increased understanding and empathy towards those infected, improving their interactions in sexual and social relationships. Researchers emphasized PrEP's dual role as a biomedical intervention and psychological support. To maximize its public health impact, they recommended public education campaigns to dispel myths about PrEP users, integrate PrEP counseling into primary care and sexual health services, provide LGBTQ+ friendly training for healthcare providers, and offer financial subsidies to improve affordability.\n\nIn conclusion, PrEP's benefits extend beyond HIV prevention. It improves mental health and enhances the well-being of sexual minority groups. Prioritizing PrEP's widespread availability and actively combating societal stigma are crucial components of comprehensive HIV prevention strategies.",
-    "disclaimer": "本報導僅供參考，非醫療建議。",
-    "image_prompt": "medical illustration style, minimalist, PrEP, mental health, LGBT, Singapore",
-    "category": "Mental Health",
-    "category_zh": "心理健康",
-    "source": {
-      "journal": "AIDS and behavior",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41269647/"
-    },
-    "created_at": "2025-11-21T18:31:24.857Z"
-  },
-  {
-    "id": "1763749871210",
-    "pubmed_id": "41268047",
-    "title_zh": "用藥越多越不易失智？輕度認知障礙者用藥研究現意外發現",
-    "title_en": "More Medications, Less Dementia? Unexpected Findings in Mild Cognitive Impairment Study",
-    "summary": "台灣一項研究發現，輕度認知障礙患者服用多種藥物與降低失智症風險有關，顛覆了人們對多重用藥的刻板印象。",
-    "key_points": [
-      "多重用藥(Polypharmacy)與輕度認知障礙者的失智症風險降低有關",
-      "降血壓藥和降血脂藥可能在預防失智症中扮演重要角色",
-      "藥物種類與目的可能比藥物數量更重要"
-    ],
-    "content_zh": "許多長者都有同時服用多種藥物的習慣，也就是所謂的「多重用藥」。過去我們常認為多重用藥會增加副作用風險，但一項來自台灣的最新研究卻發現，對於輕度認知障礙（MCI）的長者來說，多重用藥可能與降低失智症的風險有關，這項發現挑戰了傳統觀念。\n\n輕度認知障礙可以被視為失智症的前期，患者的認知功能略有下降，但尚未達到失智症的診斷標準。就像水庫堤防出現裂縫，雖未潰堤，但已亮起紅燈。藥物在其中扮演的角色複雜，可能透過多種機制影響認知功能。例如，控制血壓和血脂可能改善腦部血液循環，進而減緩認知衰退。\n\n這項研究追蹤了237位輕度認知障礙患者，觀察他們服用藥物的種類和認知功能的變化。研究結果顯示，在平均34個月的追蹤期間，同時服用五種或以上藥物的患者，轉為失智症的風險明顯降低，風險比僅服用少量藥物甚至不服藥的患者降低了近一半（風險比0.49，信賴區間0.31-0.78）。更有趣的是，研究人員並未發現藥物數量與失智症風險之間存在明確的閾值，服用五種到八種藥物都顯示出保護作用。進一步分析顯示，降血壓藥和降血脂藥可能在降低失智症風險中扮演重要角色。\n\n這項研究的重要意義在於提醒我們，評估用藥時，不能只看藥物數量，更要關注藥物的目的和種類。對於輕度認知障礙的長者，控制血壓、血脂等慢性疾病可能對預防失智症有所幫助。當然，這並不意味著鼓勵長者自行增加用藥，而是強調應在醫師的指導下，制定個人化的用藥策略。未來研究應著重於如何優化輕度認知障礙患者的用藥方案，在控制疾病的同時，兼顧認知功能的保護，最終目標是延緩或阻止失智症的發生。",
-    "content_en": "Polypharmacy, the concurrent use of multiple medications, is a common practice among older adults. While often associated with increased risk of side effects, a recent study from Taiwan suggests a surprising link: polypharmacy may be associated with a reduced risk of dementia in older adults with mild cognitive impairment (MCI). This finding challenges conventional wisdom.\n\nMCI can be considered a precursor to dementia, characterized by a slight decline in cognitive function. The role of medications in this process is complex, potentially influencing cognitive function through various mechanisms. For example, controlling blood pressure and cholesterol may improve brain blood flow, thereby slowing cognitive decline.\n\nThe study followed 237 MCI patients, observing their medication use and cognitive changes. The results showed that patients taking five or more medications concurrently had a significantly lower risk of progressing to dementia, almost halving the risk compared to those taking fewer medications or none at all (hazard ratio 0.49, confidence interval 0.31-0.78). Interestingly, the researchers did not find a clear threshold between the number of medications and dementia risk, with five to eight medications showing a protective effect. Further analysis suggested that antihypertensive and lipid-modifying drugs may play a significant role in reducing dementia risk.\n\nThe significance of this study lies in reminding us that medication assessment should not only focus on the number of drugs, but also on their purpose and type. For older adults with MCI, controlling chronic diseases such as hypertension and hyperlipidemia may help prevent dementia. Of course, this does not mean encouraging older adults to increase their medication intake on their own, but rather emphasizes the importance of developing personalized medication strategies under the guidance of a physician. Future research should focus on optimizing medication regimens for MCI patients, balancing disease control with cognitive protection, with the ultimate goal of delaying or preventing dementia.",
-    "disclaimer": "本報導僅供參考，非醫療建議。如有任何健康問題，請諮詢專業醫師。",
-    "image_prompt": "medical illustration style, minimalist, older adults medication dementia prevention",
-    "category": "Longevity",
-    "category_zh": "抗衰老",
-    "source": {
-      "journal": "Alzheimer's & dementia (New York, N. Y.)",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41268047/"
-    },
-    "created_at": "2025-11-21T18:31:11.210Z"
-  },
-  {
-    "id": "1763749859905",
-    "pubmed_id": "41269205",
-    "title_zh": "老化研究的世代傳承：從下視丘到 mTOR 的思想之旅",
-    "title_en": "Intergenerational Ideas in Aging Research: From Hypothalamus to mTOR",
-    "summary": "新研究探討兩位傑出老年學家 Dilman 和 Blagosklonny 的思想關聯，揭示老化研究的世代傳承與學術引用偏見。",
-    "key_points": [
-      "老化研究",
-      "世代傳承",
-      "學術引用偏見",
-      "下視丘",
-      "mTOR"
-    ],
-    "content_zh": "衰老，是人類共同面對的課題。如何延緩衰老，延長健康壽命，一直是科學家們孜孜不倦探索的目標。一篇新近發表的論文，深入探討了兩位重要的老年學家：Vladimir Dilman 和 Mikhail Blagosklonny 之間的學術傳承關係，並揭示了學術引用中可能存在的偏見，引人深思。\n\nDilman 的「老化海拔學說」認為，下視丘功能失調是衰老的關鍵。將其比作一輛失控的汽車，下視丘就像油門，隨著年齡增長，油門被卡住，導致內分泌系統過度運作，加速衰老。而 Blagosklonny 的「老化過度功能學說」則聚焦於 mTOR 蛋白複合體，認為它如同細胞內的加速器，過度活躍導致細胞過度生長和衰老。雖然機制不同，但兩者都指向了「功能失調」導致的加速衰老。\n\n這篇論文不僅考察了兩位科學家的思想相似性，還追溯了他們的學術淵源和教育背景。作者本人曾在 1970 年代末和 1980 年代初隸屬於 Dilman 的實驗室，這段經歷為他提供了獨特的視角。研究指出，Dilman 的學術貢獻並未得到充分的認可，部分原因在於學術引用中存在的偏見。隨著老化研究領域的文獻數量爆炸式增長，許多早期開創性的工作被淹沒，導致後來的研究者忽視了前人的智慧。\n\n這項研究提醒我們，在追求科學突破的同時，不應忽視對前人研究的尊重和傳承。理解過去的研究，才能更好地理解現在，並為未來的研究奠定堅實的基礎。更重要的是，我們應該警惕學術引用中的偏見，確保每一位科學家的貢獻都能得到公正的評價。從 Dilman 到 Blagosklonny，老化研究的世代傳承仍在繼續，這不僅是科學知識的傳遞，更是科學精神的延續。了解這些研究有助於我們更理性地看待抗衰老產品和策略。真正的抗衰老，或許不在於尋找靈丹妙藥，而在於理解生命的本質，並做出更健康的生活方式選擇。",
-    "content_en": "Aging is a universal human challenge. Scientists are constantly exploring ways to delay aging and extend healthy lifespan. A recently published paper delves into the academic relationship between two important gerontologists, Vladimir Dilman and Mikhail Blagosklonny, and reveals potential biases in academic citations, prompting reflection.\n\nDilman's \"Elevation Theory of Aging\" posits that hypothalamic dysfunction is key to aging. Think of it like a runaway car; the hypothalamus is like the gas pedal, and as we age, the pedal gets stuck, causing the endocrine system to overwork and accelerate aging. Blagosklonny's \"Hyperfunction Theory of Aging\" focuses on the mTOR protein complex, which he views as an accelerator within cells, its overactivity leading to cell overgrowth and aging. While the mechanisms differ, both point to \"dysfunction\" leading to accelerated aging.\n\nThis paper not only examines the similarities in thought between the two scientists but also traces their academic origins and educational backgrounds. The author himself was affiliated with Dilman's laboratory in the late 1970s and early 1980s, providing him with a unique perspective. The study points out that Dilman's academic contributions have not been fully recognized, partly due to biases in academic citations. With the explosive growth of literature in the field of aging research, many early pioneering works have been submerged, leading later researchers to overlook the wisdom of their predecessors.\n\nThis research reminds us that while pursuing scientific breakthroughs, we should not neglect respect for and inheritance of previous research. Understanding past research is essential to better understand the present and lay a solid foundation for future research. More importantly, we should be wary of biases in academic citations, ensuring that the contributions of every scientist are fairly evaluated. From Dilman to Blagosklonny, the intergenerational transmission of aging research continues, which is not only the transmission of scientific knowledge but also the continuation of the scientific spirit. Understanding these studies helps us to view anti-aging products and strategies more rationally. True anti-aging may not lie in finding a panacea, but in understanding the essence of life and making healthier lifestyle choices.",
-    "disclaimer": "本報導僅供參考，非醫療建議。",
-    "image_prompt": "medical illustration style, minimalist, aging research, hypothalamus, mTOR, intergenerational transfer",
-    "category": "Longevity",
-    "category_zh": "抗衰老",
-    "source": {
-      "journal": "Aging",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41269205/"
-    },
-    "created_at": "2025-11-21T18:30:59.905Z"
-  },
-  {
-    "id": "1763749848323",
-    "pubmed_id": "41268130",
-    "title_zh": "脊髓損傷患者睡眠呼吸中止症：牙套式呼吸器帶來曙光",
-    "title_en": "Mandibular Advancement Device Shows Promise for Sleep Apnea in Spinal Cord Injury Patients",
-    "summary": "研究顯示，牙套式呼吸器能有效改善脊髓損傷患者的睡眠呼吸中止症，為CPAP以外提供另一選擇。",
-    "key_points": [
-      "牙套式呼吸器 (MAD) 有效降低呼吸中止指數 (AHI)",
-      "年輕、生活品質較差的患者效果更佳",
-      "為脊髓損傷患者提供CPAP以外的治療選擇"
-    ],
-    "content_zh": "長年臥床的脊髓損傷患者，常伴隨睡眠呼吸中止症，嚴重影響生活品質。傳統治療仰賴正壓呼吸器 (CPAP)，但許多患者難以適應其面罩及氣流，導致治療效果不佳。\n\n最新研究顯示，一種稱為「牙套式呼吸器 (Mandibular Advancement Device, MAD)」的裝置，有望為這些患者帶來新希望。MAD 就像運動員配戴的牙套，藉由輕微前推下顎，擴大呼吸道空間，猶如撐開一條原本被擠壓的管子，讓空氣流通更順暢，改善睡眠呼吸中止。\n\n這項研究追蹤了 40 名患有睡眠呼吸中止症的脊髓損傷患者，其中 35 人完成了為期六個月的 MAD 臨床試驗。結果顯示，患者的平均呼吸中止指數 (AHI) 從 35.7 顯著下降至 18.5 (p < .0001)，代表呼吸中止的頻率明顯減少。此外，日間嗜睡程度 (Epworth Sleepiness Scale, ESS) 也從 9.3 改善至 6.8 (p = .0001)，意味著患者白天精神更好，不再昏昏欲睡。研究也發現，年輕且生活品質較差的患者，對 MAD 的治療反應更佳，治療成功率接近五成 (48.6%)。\n\n研究作者表示，MAD 對於中度 (AHI 15-30) 和重度 (AHI >30) 睡眠呼吸中止症的脊髓損傷患者均有效。雖然生活品質 (WHOQOL-BREF) 並未顯著改善，但考慮到脊髓損傷患者的特殊情況，呼吸中止指數及日間嗜睡程度的改善已屬難得。MAD 提供了一個 CPAP 以外的替代方案，特別適合那些無法適應或拒絕使用 CPAP 的患者。未來研究應更深入探討哪些特定族群的脊髓損傷患者最能從 MAD 治療中獲益，並優化 MAD 的設計，以提升治療效果及患者的舒適度。",
-    "content_en": "Patients with spinal cord injuries, often confined to bed for extended periods, frequently suffer from obstructive sleep apnea (OSA), significantly impacting their quality of life. Traditional treatment relies on continuous positive airway pressure (CPAP) therapy, but many patients struggle to adapt to the mask and airflow, leading to poor treatment outcomes.\n\nNew research indicates that a device called a Mandibular Advancement Device (MAD) holds promise for these patients. The MAD, similar to a mouthguard worn by athletes, works by slightly advancing the lower jaw, expanding the airway space, much like opening a compressed pipe to facilitate smoother airflow and improve sleep apnea.\n\nThe study followed 40 individuals with spinal cord injuries suffering from OSA, with 35 completing a six-month MAD clinical trial. The results showed that the patients' mean apnea-hypopnea index (AHI) significantly decreased from 35.7 to 18.5 (p < .0001), indicating a notable reduction in the frequency of sleep apnea episodes. Furthermore, daytime sleepiness (Epworth Sleepiness Scale, ESS) improved from 9.3 to 6.8 (p = .0001), suggesting that patients felt more alert during the day. The study also found that younger patients with lower baseline quality of life scores showed a better response to MAD treatment, with a success rate of nearly 50% (48.6%).\n\nThe study authors stated that MAD is effective for both moderate (AHI 15-30) and severe (AHI >30) OSA in individuals with spinal cord injuries. Although quality of life (WHOQOL-BREF) did not significantly improve, the improvement in AHI and daytime sleepiness is noteworthy given the unique circumstances of patients with spinal cord injuries. MAD offers an alternative to CPAP, especially for those who cannot tolerate or refuse CPAP therapy. Future research should further investigate which specific subgroups of spinal cord injury patients benefit most from MAD treatment and optimize the design of MADs to enhance treatment efficacy and patient comfort.",
-    "disclaimer": "本報導僅供參考，非醫療建議。如有健康問題，請諮詢專業醫師。",
-    "image_prompt": "medical illustration style, minimalist, mandibular advancement device, spinal cord injury patient sleeping",
-    "category": "Sleep Science",
-    "category_zh": "睡眠科學",
-    "source": {
-      "journal": "Topics in spinal cord injury rehabilitation",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41268130/"
-    },
-    "created_at": "2025-11-21T18:30:48.323Z"
-  },
-  {
-    "id": "1763749837104",
-    "pubmed_id": "41269063",
-    "title_zh": "重症監護數據標準化現曙光！研究揭示OMOP模型擴展潛力",
-    "title_en": "Critical Care Data Standardization Breakthrough: Study Shows Potential for OMOP Model Extension",
-    "summary": "研究顯示，現有數據模型OMOP經調整後，可有效整合重症監護數據，提升醫療品質與研究效率。",
-    "key_points": [
-      "OMOP模型在重症數據整合上具潛力",
-      "需針對呼吸機參數等重症特定數據進行模型調整",
-      "大型語言模型輔助數據匹配，展現應用前景"
-    ],
-    "content_zh": "重症監護病房(ICU)數據複雜且多樣，長期缺乏統一標準，導致醫療研究難以進行，跨機構數據共享受阻。這項研究評估了將重症醫學會(SCCM)的重症監護數據字典(C2D2)與現有的OMOP通用數據模型(CDM)相結合的可行性，旨在建立一個標準化框架，提升重症數據的互操作性和研究效率。\n\n想像一下，ICU數據就像一堆積木，C2D2試圖將這些積木定義清楚，而OMOP模型則是一個設計好的藍圖，研究的目的就是看這些積木能不能按照藍圖搭建起來。OMOP模型是一個被廣泛使用的臨床數據標準化模型，它能將不同來源的醫療數據轉換成統一的格式，方便進行大規模的分析和研究。但由於ICU數據的特殊性，例如呼吸機參數、複雜的評分系統等，直接使用OMOP模型往往會遇到困難。\n\n研究團隊對C2D2中的226個數據元素進行了分析，發現約49.6%的元素可以直接對應到OMOP模型中，46.4%的元素需要進行修改才能匹配，而4.0%的元素則沒有找到合適的對應關係。研究著重指出了呼吸機參數、綜合評分系統和高級器官支持文檔等關鍵的不兼容性。此外，研究還嘗試使用大型語言模型來輔助數據匹配，在最佳相似度閾值0.90下，準確率達到59.5%，召回率達到87.0%，F1值為70.7%，顯示出人工智能在數據標準化領域的應用潛力。\n\n研究結果表明，擴展OMOP模型以適應重症監護數據在技術上是可行的，但需要針對綜合評分、時間精度和特定的重症概念進行有針對性的修改。研究團隊建議，社群需要審慎考慮是否要將C2D2與OMOP整合，或者通過Observational Health Data Sciences and Informatics (OHDSI) 流程將C2D2納入OMOP詞彙表中。最終，選擇哪種方案需要在技術可行性、長期可持續性和維護成本之間取得平衡。這項研究為重症數據的標準化提供了重要的參考，有望加速重症醫學研究的進程，最終改善患者的治療效果。",
-    "content_en": "The complexity and diversity of data in Intensive Care Units (ICUs) have long hindered medical research and data sharing due to a lack of unified standards. This study assessed the feasibility of combining the Society of Critical Care Medicine's (SCCM) Critical Care Data Dictionary (C2D2) with the existing Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM), aiming to establish a standardized framework to enhance the interoperability and research efficiency of critical care data.\n\nImagine ICU data as a pile of building blocks, where C2D2 attempts to clearly define these blocks, and the OMOP model is a pre-designed blueprint. The study's objective is to see if these blocks can be assembled according to the blueprint. The OMOP model is a widely used clinical data standardization model that transforms medical data from different sources into a uniform format, facilitating large-scale analysis and research. However, due to the specificity of ICU data, such as ventilator parameters and complex scoring systems, direct use of the OMOP model often encounters difficulties.\n\nThe research team analyzed 226 data elements from C2D2 and found that approximately 49.6% of the elements could be directly mapped to the OMOP model, 46.4% required modification to match, and 4.0% had no suitable correspondence. The study highlighted key incompatibilities in ventilator parameters, composite scoring systems, and advanced organ support documentation. Furthermore, the study attempted to use a large language model to assist in data matching, achieving a precision of 59.5%, a recall of 87.0%, and an F1 score of 70.7% at an optimized similarity threshold of 0.90, demonstrating the potential of artificial intelligence in data standardization.\n\nThe results indicate that extending the OMOP model to accommodate critical care data is technically feasible, but requires targeted modifications for composite scores, temporal precision, and specific critical care concepts. The research team suggests that the community carefully consider whether to integrate C2D2 with OMOP or to incorporate C2D2 into the OMOP vocabulary through the Observational Health Data Sciences and Informatics (OHDSI) process. Ultimately, the choice of which solution to pursue requires a balance between technical feasibility, long-term sustainability, and maintenance costs. This study provides an important reference for the standardization of critical care data, with the potential to accelerate the progress of critical care medical research and ultimately improve patient outcomes.",
-    "disclaimer": "本報導僅供參考，非醫療建議。",
-    "image_prompt": "medical illustration style, minimalist, ICU data standardization, OMOP model, C2D2, data mapping",
-    "category": "Sleep Science",
-    "category_zh": "睡眠科學",
-    "source": {
-      "journal": "Critical care medicine",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41269063/"
-    },
-    "created_at": "2025-11-21T18:30:37.104Z"
   }
 ]
