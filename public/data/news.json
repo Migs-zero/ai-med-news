@@ -1,5 +1,74 @@
 [
   {
+    "id": "1763974117134namrj",
+    "pubmed_id": "41276863",
+    "doi": "10.1186/s41232-025-00398-x",
+    "title_zh": "CAR-T療法攻克實體腫瘤有望？基因編輯技術能否成為最後的希望？",
+    "summary": "CAR-T細胞療法在血癌治療上取得了巨大成功，但在實體腫瘤方面卻舉步維艱。最新研究顯示，基因編輯技術，尤其是CRISPR/Cas9，為克服CAR-T療法在實體腫瘤中的障礙提供了新的可能性，有望大幅提升治療效果和安全性。",
+    "key_points": [
+      "基因編輯技術，如CRISPR/Cas9，能精準改造CAR-T細胞，提高其對實體腫瘤的殺傷力。",
+      "基因編輯可以克服CAR-T細胞在實體腫瘤中面臨的挑戰，例如浸潤不足、腫瘤微環境抑制等。",
+      "臨床試驗正在探索基因編輯CAR-T細胞療法在實體腫瘤中的應用，初步結果令人鼓舞。",
+      "多重基因編輯技術可以同時針對多個目標，進一步提升CAR-T細胞療法的效果和安全性。"
+    ],
+    "content_zh": "你是否也曾為身邊罹患實體腫瘤的親友感到無力和惋惜？現有的治療手段往往效果有限，副作用也讓人痛苦不堪。CAR-T細胞療法作為一種新型的免疫療法，在血癌治療上取得了令人矚目的成就，但面對更為複雜的實體腫瘤，卻常常束手無策。\n\n不過，科學家們並未放棄！最近發表在PubMed上的一項研究，為我們帶來了一絲曙光。這項研究深入探討了**基因編輯技術，尤其是CRISPR/Cas9，如何被應用於CAR-T細胞療法，以攻克實體腫瘤的難題**。研究指出，CAR-T細胞在實體腫瘤中面臨諸多挑戰，包括難以有效浸潤到腫瘤內部、腫瘤細胞表面的抗原多樣性、可能產生的脫靶毒性、腫瘤微環境的免疫抑制以及腫瘤細胞本身的耐藥性。而**基因編輯技術就像一把精密的刻刀，可以對CAR-T細胞進行改造，使其更聰明、更強大**。\n\n例如，科學家可以利用基因編輯技術**敲除CAR-T細胞中抑制免疫反應的基因，使其在腫瘤微環境中更好地存活和發揮作用**。他們還可以**導入新的基因，讓CAR-T細胞能夠更精準地識別和攻擊腫瘤細胞**。甚至，可以利用**多重基因編輯技術同時改造多個基因，進一步提升CAR-T細胞的療效和安全性**。研究也提到，目前已經有一些臨床試驗正在探索基因編輯CAR-T細胞療法在實體腫瘤中的應用，並取得了一些初步的、令人鼓舞的結果。\n\n**總而言之，基因編輯技術為CAR-T細胞療法攻克實體腫瘤帶來了新的希望**。雖然目前還處於研究階段，但隨著技術的發展和臨床試驗的深入，我們有理由相信，在不久的將來，基因編輯CAR-T細胞療法將成為治療實體腫瘤的一種重要手段，為更多患者帶來福音。未來，我們需要更多臨床數據來驗證其長期安全性和有效性，並不斷優化基因編輯策略，才能真正實現精準醫療的目標。",
+    "category": "General",
+    "category_zh": "綜合醫學",
+    "disclaimer": "本報導僅供參考，不能作為診斷或治療的依據。如有健康問題，請諮詢專業醫療人員。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41276863/"
+    },
+    "created_at": "2025-11-24T08:48:37.134Z"
+  },
+  {
+    "id": "1763974108068wvd2b",
+    "pubmed_id": "41276866",
+    "doi": "10.1186/s13287-025-04781-w",
+    "title_zh": "肌萎縮性脊髓側索硬化症（ALS）有解藥了嗎？新療法燃起一線生機！",
+    "summary": "ALS（俗稱漸凍症）是一種令人絕望的疾病，讓患者逐漸失去運動能力。但最新研究顯示，針對疾病分子機制的新型療法，如基因療法和幹細胞療法，在臨床試驗中展現出令人鼓舞的早期成果，為患者帶來了新的希望。",
+    "key_points": [
+      "ALS 是一種影響運動神經元的退化性疾病，導致肌肉無力、萎縮和癱瘓。",
+      "現有藥物僅能提供有限的症狀緩解，無法有效阻止疾病進程。",
+      "新型療法，包括基因療法和幹細胞療法，正展現出有希望的臨床前和早期臨床試驗結果。",
+      "持續的研究對於開發有效的、針對性的 ALS 治療方法至關重要。"
+    ],
+    "content_zh": "試想一下，你原本可以自由地奔跑、跳躍，做任何想做的事情，但突然有一天，你的肌肉開始不受控制地顫抖，力量逐漸消失，最終甚至連呼吸都變得困難…這就是肌萎縮性脊髓側索硬化症（ALS），俗稱漸凍症，帶給患者的殘酷現實。至今，我們仍然沒有能夠有效阻止這種疾病進程的方法，對於患者和家屬而言，無疑是巨大的折磨。\n\n然而，科學家們並沒有放棄希望。最近發表在 PubMed 上的一篇綜述性文章，為我們帶來了一線曙光。這篇名為“Cutting-edge treatments in amyotrophic lateral sclerosis: the role of molecular pathogenesis in targeted therapies”的研究，深入探討了 ALS 的分子機制，並介紹了最新的靶向治療策略。\n\n該研究指出，ALS 的發生與 **C9orf72、SOD1、TARDBP 和 FUS 等基因的突變**密切相關，這些突變導致蛋白錯誤摺疊、氧化應激、線粒體功能障礙、興奮性毒性和神經炎症等一系列複雜的病理過程，最終導致運動神經元退化。目前 FDA 批准的藥物，如 Riluzole 和 Edaravone，雖然可以緩解部分症狀，但效果有限，無法真正阻止疾病的惡化。\n\n好消息是，**基因療法（例如反義寡核苷酸 (ASOs) 和 CRISPR/Cas9）、幹細胞療法和神經營養因子補充等新興療法**，在臨床前和早期臨床試驗中表現出令人鼓舞的結果。這些療法旨在 **靶向、調節和促進神經再生**，為未來的 ALS 治療帶來了新的希望。\n\n當然，我們仍面臨許多挑戰，例如 **有效的藥物傳遞方式、安全性問題以及 ALS 病理的複雜性**。但值得慶幸的是，科學家們正在不斷探索這些創新療法，目標是改善患者的臨床結果。這項研究強調了 **個性化治療方法的重要性**，並強調必須繼續在 ALS 研究領域進行創新，最終目標是開發能夠改變疾病進程的治療方法，甚至找到這種致命疾病的治愈方法。\n\n雖然距離徹底攻克 ALS 還有很長的路要走，但這些新的研究成果無疑給了我們更多戰勝疾病的信心。讓我們一起期待科學的突破，為 ALS 患者帶來真正的希望！",
+    "category": "General",
+    "category_zh": "綜合醫學",
+    "disclaimer": "本報導僅為科普性質，不能取代專業醫療建議。如有任何健康問題，請諮詢合格的醫療專業人員。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41276866/"
+    },
+    "created_at": "2025-11-24T08:48:28.068Z"
+  },
+  {
+    "id": "176397409978064i8h",
+    "pubmed_id": "41276892",
+    "doi": "10.1002/jsfa.70345",
+    "title_zh": "食物過敏竟藏在胺基酸裡？新研究揭秘，讓過敏原無所遁形！",
+    "summary": "全球數百萬人深受食物過敏之苦。一項最新研究發現，過敏性蛋白質和非過敏性蛋白質在胺基酸組成、結構特徵和溶解度上存在顯著差異。這些發現為早期檢測食物過敏原，甚至預防過敏反應，提供了新的希望。",
+    "key_points": [
+      "過敏性蛋白質和非過敏性蛋白質的胺基酸組成存在顯著差異。",
+      "特定保守序列（Conserved Motifs）在過敏性蛋白質家族中高度一致。",
+      "不同過敏原家族的溶解度表現各異，可以作為區分指標。",
+      "這些發現有助於開發早期檢測食物過敏原的生物標記物。"
+    ],
+    "content_zh": "您是否也曾因為孩子或自己誤食特定食物而引起過敏反應，從皮膚紅腫、呼吸困難到危及生命的休克？食物過敏問題日益嚴重，影響著全球數百萬人的生活品質。但我們對食物過敏的成因，以及如何早期發現並預防它，仍然知之甚少。\n\n現在，一篇發表在PubMed上的最新研究帶來了令人振奮的消息！研究人員深入分析了過敏性蛋白質和非過敏性蛋白質的胺基酸組成，發現它們之間存在著顯著差異。這項研究就像是給過敏原做了一次徹底的「身分證」掃描，找到了它們獨特的「指紋」。\n\n這項研究的 **核心發現** 包括：\n\n*   **胺基酸組成差異：** 過敏性蛋白質和非過敏性蛋白質在使用不同胺基酸的比例上存在明顯差異。研究人員甚至利用對應分析（Correspondence Analysis）將兩者區分開來。\n*   **保守序列（Conserved Motifs）：** 在特定的過敏原家族，例如Cupin、Bet v 1-homologous、CAP和Tropomyosin等，研究人員發現了高度一致的保守序列，這些序列就像是這些過敏原家族的「家族徽章」。\n*   **溶解度差異：** 研究發現，不同過敏原家族的溶解度特性也各不相同。例如，Bet v 1-homologous過敏原比非過敏性蛋白質更易溶於水，而Cupin、CAP和Tropomyosin過敏原則相反。\n\n這些發現意義重大。它不僅加深了我們對蛋白質致敏機制的理解，更重要的是，它為 **開發早期檢測食物過敏原的生物標記物** 奠定了基礎。想像一下，未來我們可以通過簡單的檢測，就能知道某種食物是否具有潛在的過敏風險，從而避免過敏反應的發生！\n\n當然，這項研究還處於早期階段。研究人員表示，下一步將進一步驗證這些發現，並開發出更精準、更可靠的過敏原檢測方法。讓我們共同期待，在不久的將來，食物過敏將不再是困擾我們的难题！",
+    "category": "General",
+    "category_zh": "綜合醫學",
+    "disclaimer": "本報導僅供參考，不能取代專業醫療建議。如有任何健康疑慮，請諮詢合格的醫療專業人員。",
+    "source": {
+      "journal": "PubMed Indexed Journal",
+      "year": "2025",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41276892/"
+    },
+    "created_at": "2025-11-24T08:48:19.780Z"
+  },
+  {
     "id": "17639735187664dxte",
     "pubmed_id": "41276868",
     "doi": "10.1186/s13287-025-04783-8",
@@ -1105,77 +1174,5 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41266803/"
     },
     "created_at": "2025-11-21T18:40:57.768Z"
-  },
-  {
-    "id": "1763750446000",
-    "pubmed_id": "41265850",
-    "title_zh": "睡眠呼吸中止症新曙光？腸泌素藥物或成潛力療法",
-    "title_en": "New Hope for Sleep Apnea? Incretin Drugs Show Potential",
-    "summary": "最新研究顯示，腸泌素藥物，包括GLP-1受體促效劑和GLP-1/GIP雙重受體促效劑，可能對治療睡眠呼吸中止症及改善心臟代謝健康有益。",
-    "key_points": [
-      "腸泌素藥物作用機制",
-      "GLP-1受體促效劑與GLP-1/GIP雙重受體促效劑",
-      "睡眠呼吸中止症與心臟代謝健康"
-    ],
-    "content_zh": "# 睡眠呼吸中止症新曙光？腸泌素藥物或成潛力療法\n\n許多人深受睡眠呼吸中止症所苦，夜間反覆停止呼吸，不僅影響睡眠品質，長期更增加心血管疾病風險。現在，一項新的研究燃起了治療的新希望，指向一類常用於糖尿病治療的藥物：腸泌素。\n\n**腸泌素：調節血糖與多重益處**\n\n腸泌素，例如GLP-1（升糖素樣肽-1），是人體自然分泌的一種激素，主要作用是促進胰島素釋放、抑制升糖素分泌，從而調節血糖。想像一下，GLP-1就像一位交通指揮員，確保血糖不會過高或過低。而GLP-1受體促效劑（GLP-1RAs）和GLP-1/GIP雙重受體促效劑（GLP-1RA/GIPRAs）則像是增強這位指揮員能力的工具，可以更有效地控制血糖。除了控制血糖，研究也發現腸泌素對多個器官系統有益，包括降低體重、改善血壓，甚至可能改善睡眠。\n\n**研究發現：腸泌素與睡眠呼吸中止症的關聯**\n\n最新的研究深入探討了GLP-1RAs和GLP-1RA/GIPRAs對睡眠呼吸中止症的影響。研究發現，這類藥物可能通過多種機制改善睡眠呼吸中止症。首先，它們可以通過降低體重來減輕呼吸道阻塞。其次，GLP-1RAs可能直接影響大腦呼吸中樞，改善呼吸控制。第三，這些藥物還可以減少炎症反應，從而改善呼吸道功能。值得注意的是，這些藥物對心臟代謝健康也有積極影響，可以降低血壓、改善血脂，減少心血管疾病風險。由於睡眠呼吸中止症常常伴隨肥胖、高血壓等心臟代謝問題，腸泌素藥物可能提供一個全面的解決方案。\n\n**未來展望：更多研究與臨床應用**\n\n雖然這項研究提供了令人鼓舞的結果，但仍需要更多大型臨床試驗來驗證腸泌素藥物在治療睡眠呼吸中止症方面的效果。未來的研究還需要深入探討不同腸泌素藥物在治療睡眠呼吸中止症方面的差異，以及最佳的劑量和治療方案。對於深受睡眠呼吸中止症困擾的患者，如果同時患有糖尿病或肥胖，與醫生討論使用腸泌素藥物可能是一個值得考慮的選項。然而，重要的是要記住，任何藥物治療都應在醫生的指導下進行，並結合健康的生活方式，包括減重、運動和良好的睡眠習慣，才能達到最佳效果。 \n",
-    "content_en": "# New Hope for Sleep Apnea? Incretin Drugs Show Potential\n\nMany people suffer from obstructive sleep apnea, experiencing repeated pauses in breathing during the night, which not only affects sleep quality but also increases the risk of cardiovascular diseases in the long term. Now, a new study has ignited new hope for treatment, pointing to a class of drugs commonly used in diabetes treatment: incretins.\n\n**Incretins: Regulating Blood Sugar and Multiple Benefits**\n\nIncretins, such as GLP-1 (glucagon-like peptide-1), are a naturally secreted hormone in the body, primarily responsible for promoting insulin release and inhibiting glucagon secretion, thereby regulating blood sugar. Imagine GLP-1 as a traffic controller, ensuring blood sugar doesn't get too high or too low. GLP-1 receptor agonists (GLP-1RAs) and GLP-1/GIP dual receptor agonists (GLP-1RA/GIPRAs) are like tools that enhance the capabilities of this controller, enabling more effective blood sugar control. In addition to controlling blood sugar, studies have also found that incretins have benefits for multiple organ systems, including weight loss, improved blood pressure, and even potentially improved sleep.\n\n**Research Findings: The Link Between Incretins and Sleep Apnea**\n\nThe latest research delves into the effects of GLP-1RAs and GLP-1RA/GIPRAs on obstructive sleep apnea. The study found that these drugs may improve sleep apnea through multiple mechanisms. First, they can reduce airway obstruction by promoting weight loss. Second, GLP-1RAs may directly affect the brain's respiratory center, improving respiratory control. Third, these drugs can also reduce inflammatory responses, thereby improving airway function. Notably, these drugs also have positive effects on cardiometabolic health, including lowering blood pressure, improving blood lipids, and reducing the risk of cardiovascular diseases. Since sleep apnea is often accompanied by obesity, high blood pressure, and other cardiometabolic issues, incretin drugs may offer a comprehensive solution.\n\n**Future Outlook: More Research and Clinical Applications**\n\nWhile this study provides encouraging results, more large-scale clinical trials are needed to verify the effectiveness of incretin drugs in treating sleep apnea. Future research also needs to further explore the differences between different incretin drugs in treating sleep apnea, as well as the optimal dosage and treatment regimens. For patients suffering from sleep apnea, especially those with diabetes or obesity, discussing the use of incretin drugs with a doctor may be a worthwhile option. However, it is important to remember that any drug treatment should be carried out under the guidance of a doctor and combined with a healthy lifestyle, including weight loss, exercise, and good sleep habits, to achieve the best results.",
-    "disclaimer": "本報導僅供參考，非醫療建議。",
-    "image_prompt": "medical illustration style, minimalist, GLP-1 receptor agonist, sleep apnea, lungs, brain",
-    "category": "Sleep Science",
-    "category_zh": "睡眠科學",
-    "source": {
-      "journal": "Journal of diabetes",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41265850/"
-    },
-    "created_at": "2025-11-21T18:40:46.000Z"
-  },
-  {
-    "id": "1763750433099",
-    "pubmed_id": "41266418",
-    "title_zh": "AI精準揪出睡眠呼吸中止症，擺脫漫長診斷路",
-    "title_en": "AI Identifies Sleep Apnea Subtypes, Streamlining Diagnosis",
-    "summary": "AI透過臨床數據分析，將睡眠呼吸中止症患者分群，加速診斷並制定個人化治療方案。",
-    "key_points": [
-      "AI分群技術",
-      "早期診斷",
-      "個人化治療"
-    ],
-    "content_zh": "您是否晚上睡不好，白天卻昏昏沉沉？睡眠呼吸中止症可能正在悄悄影響您的健康。傳統診斷耗時費力，需要經過漫長的睡眠檢查才能確診。現在，人工智慧（AI）帶來了曙光，有望大幅縮短診斷時間，讓患者及早獲得治療。\n\n想像一下，睡眠呼吸中止症就像一把鎖，每個人的鎖孔形狀都不一樣。過去，醫生只能用同一把鑰匙（標準診斷流程）去嘗試解鎖，效率不高。而AI就像一位鎖匠，能根據您的臨床特徵（如年齡、性別、症狀等），量身打造一把專屬鑰匙，更快更準確地打開這把鎖。\n\n一項發表於醫學期刊的研究顯示，研究團隊分析了西班牙西北部5385名疑似睡眠呼吸中止症患者的數據，利用機器學習技術將他們分成五個不同的群體。這些群體分別是：中年男性症狀較輕、以女性為主且服用精神藥物者、年輕男性嗜睡嚴重者、中年男性症狀中等者，以及年長男性合併多種疾病但主觀症狀較輕者。研究發現，不同群體在睡眠呼吸中止症的嚴重程度和治療需求上存在顯著差異。更重要的是，研究人員開發了一套智慧臨床決策支援系統（ICDSS），可以根據患者的臨床數據，將他們準確地分配到相應的群體，準確度高達87%至95%。\n\n這項研究的意義在於，AI可以幫助醫生更快速地了解患者的獨特病況，從而制定更精準的診斷和治療方案。例如，對於症狀較輕的男性，可以先採取保守治療；而對於嗜睡嚴重的年輕男性，則可能需要更積極的干預。透過AI分群，醫生可以避免不必要的檢查，節省醫療資源，更重要的是，讓患者及早獲得個人化的治療，改善睡眠品質，提升生活品質。\n\n未來，這項技術有望普及應用於各地的睡眠醫學中心。如果您懷疑自己患有睡眠呼吸中止症，不妨諮詢醫生，了解AI是否能幫助您更快速地找到解決方案。AI不僅僅是一種技術，更是一種提升醫療效率，改善患者生活品質的工具。",
-    "content_en": "Do you find yourself struggling to sleep well at night, yet feeling drowsy throughout the day? Sleep apnea could be silently impacting your health. Traditional diagnosis is time-consuming and requires lengthy sleep studies for confirmation. Now, artificial intelligence (AI) offers a ray of hope, promising to significantly reduce diagnosis time and enable patients to receive timely treatment.\n\nImagine sleep apnea as a lock, where each person's keyhole has a unique shape. In the past, doctors could only try to unlock it with the same key (standard diagnostic procedure), which wasn't very efficient. AI, on the other hand, is like a locksmith who can tailor a specific key based on your clinical characteristics (such as age, gender, symptoms), to unlock the lock faster and more accurately.\n\nA study published in a medical journal revealed that researchers analyzed data from 5385 patients suspected of having sleep apnea in northwestern Spain. Using machine learning techniques, they divided them into five distinct groups: middle-aged men with mild symptoms, predominantly symptomatic women using psychotropic drugs, young men with severe daytime sleepiness, middle-aged men with moderate symptoms, and older men with high comorbidity but low subjective symptomatology. The study found significant differences in the severity of sleep apnea and treatment needs among these groups. More importantly, the researchers developed an Intelligent Clinical Decision Support System (ICDSS) that can accurately assign patients to their respective groups based on their clinical data, with an accuracy rate of 87% to 95%.\n\nThe significance of this study lies in the fact that AI can help doctors understand patients' unique conditions more quickly, thereby developing more precise diagnosis and treatment plans. For example, conservative treatment can be considered for men with mild symptoms, while more aggressive intervention may be needed for young men with severe sleepiness. Through AI-driven clustering, doctors can avoid unnecessary tests, save medical resources, and, more importantly, allow patients to receive personalized treatment early, improve sleep quality, and enhance their quality of life.\n\nIn the future, this technology is expected to be widely used in sleep medicine centers around the world. If you suspect you have sleep apnea, consider consulting a doctor to see if AI can help you find a solution more quickly. AI is not just a technology; it is a tool to improve medical efficiency and enhance the quality of life for patients.",
-    "disclaimer": "本報導僅供參考，非醫療建議。如有健康疑慮，請諮詢專業醫生。",
-    "image_prompt": "medical illustration style, minimalist, sleep apnea, AI, patient clustering, diagnosis",
-    "category": "Sleep Science",
-    "category_zh": "睡眠科學",
-    "source": {
-      "journal": "NPJ primary care respiratory medicine",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41266418/"
-    },
-    "created_at": "2025-11-21T18:40:33.100Z"
-  },
-  {
-    "id": "1763749896543",
-    "pubmed_id": "41269527",
-    "title_zh": "化療後遺症纏身！腸癌倖存者五年內飽受神經病變之苦",
-    "title_en": "Chemotherapy-Induced Nerve Damage Haunts Colorectal Cancer Survivors for Years",
-    "summary": "研究顯示，接受奧沙利鉑化療的腸癌倖存者，其化療引起的神經病變會長期影響心理健康和生活品質。",
-    "key_points": [
-      "奧沙利鉑化療常見副作用為神經病變",
-      "神經病變與焦慮、憂鬱症狀相關",
-      "神經病變影響生活品質長達五年"
-    ],
-    "content_zh": "接受化療後的腸癌倖存者，即使戰勝癌症，卻可能長期受神經病變所苦，嚴重影響生活品質。一項追蹤長達五年的研究顯示，接受奧沙利鉑（oxaliplatin）化療的腸癌患者，其化療引起的神經病變（CIPN）不僅會帶來身體不適，更會長期影響其心理健康和生活品質。\n\n化療藥物就像一把雙面刃，在殺死癌細胞的同時，也可能損害周邊神經。想像一下，電線外層的絕緣皮受損，導致訊號傳輸異常，這就是CIPN造成的影響。患者可能出現手腳麻木、刺痛、疼痛等症狀，影響行走、精細動作，甚至日常生活。\n\n這項前瞻性世代研究追蹤了124位接受奧沙利鉑化療的腸癌患者，記錄他們在治療前後長達五年的CIPN症狀、心理狀態和生活品質。研究人員透過問卷調查，定期評估患者的CIPN症狀嚴重程度（使用EORTC QLQ-CIPN20量表）、焦慮和憂鬱程度（使用HADS量表）以及整體生活品質（使用EORTC QLQ-C30量表）。\n\n研究結果顯示，患者在化療後六週的CIPN症狀最為嚴重，之後雖逐漸減輕，但仍持續存在。更重要的是，研究人員發現CIPN症狀的嚴重程度與心理困擾程度呈現正相關，也就是說，神經病變越嚴重，患者的焦慮和憂鬱症狀也越明顯。此外，CIPN也顯著影響患者的生活品質，包括整體健康狀況、體能、社交功能和疲勞程度。研究證實，這種影響可以持續長達五年之久。\n\n此研究強調了對接受奧沙利鉑化療的腸癌倖存者進行長期追蹤的重要性。及早發現並處理CIPN症狀，不僅可以減輕患者的身體不適，更能有效改善其心理健康和生活品質。未來應投入更多資源，開發針對CIPN的有效干預措施，例如物理治療、藥物治療或心理輔導，幫助患者擺脫化療後遺症的困擾，重拾健康生活。",
-    "content_en": "Colorectal cancer (CRC) survivors often face long-term challenges, including chemotherapy-induced peripheral neuropathy (CIPN), even after overcoming the disease itself. A five-year study reveals the lasting impact of CIPN, caused by oxaliplatin-based chemotherapy, on the mental well-being and quality of life of CRC survivors.\n\nChemotherapy drugs, while effective in targeting cancer cells, can also damage peripheral nerves, leading to CIPN. Imagine the insulation on electrical wires being damaged, causing signal disruption; that's similar to how CIPN affects nerve function. Patients may experience numbness, tingling, pain, and impaired motor skills, affecting their daily activities.\n\nThis prospective cohort study followed 124 CRC patients treated with oxaliplatin-based chemotherapy, tracking their CIPN symptoms, psychological distress, and quality of life for five years. Researchers used questionnaires to regularly assess CIPN severity (EORTC QLQ-CIPN20), anxiety and depression (HADS), and overall quality of life (EORTC QLQ-C30).\n\nThe study found that CIPN symptoms peaked at six weeks post-chemotherapy and gradually decreased over time, but persisted. Crucially, the severity of CIPN was positively correlated with psychological distress; more severe neuropathy was associated with higher levels of anxiety and depression. CIPN also significantly impacted quality of life, including overall health, physical and social functioning, and fatigue. This negative impact persisted for up to five years.\n\nThe research highlights the importance of long-term monitoring for CRC survivors treated with oxaliplatin. Early detection and management of CIPN can alleviate physical discomfort and improve mental health and quality of life. Further research into effective interventions for CIPN, such as physical therapy, medication, or psychological counseling, is warranted to help patients overcome these long-lasting side effects and reclaim their health.",
-    "disclaimer": "本報導僅供參考，非醫療建議。如有健康疑慮，請諮詢專業醫師。",
-    "image_prompt": "medical illustration style, minimalist, peripheral neuropathy, chemotherapy, colorectal cancer survivor, nerve damage",
-    "category": "Mental Health",
-    "category_zh": "心理健康",
-    "source": {
-      "journal": "Journal of cancer survivorship : research and practice",
-      "year": "2025",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41269527/"
-    },
-    "created_at": "2025-11-21T18:31:36.543Z"
   }
 ]
